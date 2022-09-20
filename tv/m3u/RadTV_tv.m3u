@@ -43,7 +43,7 @@ https://d2hzei7tms9zge.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png" group-title="" tvg-chno="110", Fido TV
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png" group-title="" tvg-chno="111", Lacrosse Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/1a9964e07296388196fd389d4658f225.jpg" group-title="" tvg-chno="111", Lacrosse Sports Network
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/a93fda7a6381a009ae247326ab35e763.png" group-title="" tvg-chno="42", Party Tyme Karaoke
 https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=17704&partner=littlstar
@@ -135,7 +135,7 @@ https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/TAZBIBATBOB7DWIY11DB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/20787491db88e68eb6fe22322382028a" group-title="" tvg-chno="174", FightTVplus
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/INJXQGTN5B75XQCULKWF/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/ba60ec79a962e4d73e06c32537cba1d2" group-title="" tvg-chno="175", Kick Sports News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/eaa2924935885123426a592c535987b1" group-title="" tvg-chno="175", Kick Sports News
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/WF8PPUQI3GC989C8AG20/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655121
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/6146b678d2dc5f619b2eaae052d87c40" group-title="" tvg-chno="176", Old West TV
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/MSJE36I01V44MAYS4NG7/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655112
