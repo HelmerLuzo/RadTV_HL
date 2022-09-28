@@ -37,8 +37,6 @@ https://api-ott.podtv.live/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&pa
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1030b1a6-3f38-450d-9b79-212eca72d926/0ca06e75b34f7fdfd9d0da5024af844c.png" group-title="" tvg-chno="108", SportsGrid Network
 https://sportsgrid-radlive.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-radlive/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/31c9cf17c2122e782cb7a59f3e9f8ed4.png.png" group-title="" tvg-chno="81", YTA
-https://d2hzei7tms9zge.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-YTA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png" group-title="" tvg-chno="109", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png" group-title="" tvg-chno="110", Fido TV
@@ -66,7 +64,7 @@ https://api-ott.outdooramerica.com/loggingmediaurlpassthrough/a.m3u8?version=12&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/46cbd31e-9eae-48c4-bf91-dec4f144b793/2a9beaa069738bb18a35367f3b9f1935.jpg" group-title="" tvg-chno="134", AfrolandTV
 https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/b659f43a-e663-456f-80f7-8af74b7ed01a/86012463b8634bef98957eae1b449dde.png" group-title="" tvg-chno="136", Planet Eat
-https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/93BSM067VCM5URJ7PJHG/262.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Planet+Eat&ads.content_genre=Food%2CLifestyle&ads.content_series=Planet+Eat&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.rating=TV14&ads.schain=1&ads.ua=&ads.url=&ads.us_privacy=1N-N&ads.vast_id=647553&ads.w=1920
+https://d2l54aoo3qropm.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PlanetEat-RAD/262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/00e540db-1c49-43c8-b3cc-ff46f8c58f48/92dc8b76a91ec74003ef10898bcf8c7a" group-title="" tvg-chno="139", Familytime
 https://api-ott.familytime.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1321&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/0973b7d4-69bf-4763-b8c5-6487453398a4/924500125a21634e05a5635bde53f678" group-title="" tvg-chno="141", Baeble Music
