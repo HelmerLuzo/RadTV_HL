@@ -33,6 +33,8 @@ https://bspoketv.s.llnwi.net/streams/rad/master.m3u8
 https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/91628a49-5d57-4a6d-9480-5a66b0ed5c50/89bbb7427a614b1a6842c8153f475f92" group-title="" tvg-chno="99", Crime and Conspiracy
 https://api-ott.podtv.live/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=littlstar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4c311b30-bf83-46e4-9ade-75f8ead727f3/3a888450f2a7a6908b4897dca476fbdc" group-title="" tvg-chno="106", Extreme+
+https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-RAD/276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="" tvg-chno="107", NHRA TV
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1030b1a6-3f38-450d-9b79-212eca72d926/0ca06e75b34f7fdfd9d0da5024af844c.png" group-title="" tvg-chno="108", SportsGrid Network
