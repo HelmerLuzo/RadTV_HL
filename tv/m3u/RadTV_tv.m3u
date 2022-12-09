@@ -3,8 +3,6 @@
 https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=677&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/e2309d8cc3df13d597020099f011547f.jpeg" group-title="" tvg-chno="85", Space Channel
 https://api-ott.spacechannel.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=255&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/5a4e360379698ad3fda5c1f30f354e4c.jpeg" group-title="" tvg-chno="78", ESTV
-https://api-ott.estv.co/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/7067ebca77b8426538831b886aeb8941.jpeg" group-title="" tvg-chno="79", Super League
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/91OT6F26PGMAMF8DU8QN/287.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Super+League&ads.content_genre=Gaming%2CSports&ads.content_series=Super+League&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.rating=TVPG&ads.schain=1&ads.ua=&ads.url=&ads.us_privacy=1N-N&ads.vast_id=636654&ads.w=1920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/6cda59a14aa9aa8242ddede55881af19.png.png" group-title="" tvg-chno="86", Dark Corners
