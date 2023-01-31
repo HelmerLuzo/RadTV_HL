@@ -5,7 +5,7 @@ https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=6
 https://api-ott.spacechannel.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=255&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/7067ebca77b8426538831b886aeb8941.jpeg" group-title="" tvg-chno="79", Super League
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/91OT6F26PGMAMF8DU8QN/287.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Super+League&ads.content_genre=Gaming%2CSports&ads.content_series=Super+League&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.rating=TVPG&ads.schain=1&ads.ua=&ads.url=&ads.us_privacy=1N-N&ads.vast_id=636654&ads.w=1920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/6cda59a14aa9aa8242ddede55881af19.png.png" group-title="" tvg-chno="86", Dark Corners
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/916418e3951bdf8fb5bcde67da824b35.png" group-title="" tvg-chno="86", Dark Corners
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/VOKR5TVIBG2UKS0MY012/189.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Dark+Corners&ads.content_genre=Entertainment%2CHorror&ads.content_series=Dark+Corners&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.rating=TV14&ads.schain=1&ads.ua=&ads.url=&ads.us_privacy=1N-N&ads.vast_id=653873&ads.w=1920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/0afe1a62c827eb307dd197fa18c7b552" group-title="" tvg-chno="19", Altrd.tv
 https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar
@@ -33,15 +33,15 @@ https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1
 https://api-ott.podtv.live/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4c311b30-bf83-46e4-9ade-75f8ead727f3/3a888450f2a7a6908b4897dca476fbdc" group-title="" tvg-chno="106", Extreme+
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-RAD/276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="" tvg-chno="107", NHRA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/260d8ea23474e147e8263785b6dfeb03.png" group-title="" tvg-chno="107", NHRA TV
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1030b1a6-3f38-450d-9b79-212eca72d926/0ca06e75b34f7fdfd9d0da5024af844c.png" group-title="" tvg-chno="108", SportsGrid Network
 https://sportsgrid-radlive.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-radlive/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png" group-title="" tvg-chno="109", Billiard TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png" group-title="" tvg-chno="109", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png" group-title="" tvg-chno="110", Fido TV
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png" group-title="" tvg-chno="111", Lacrosse Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/1a9964e07296388196fd389d4658f225.jpg" group-title="" tvg-chno="111", Lacrosse Sports Network
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/a93fda7a6381a009ae247326ab35e763.png" group-title="" tvg-chno="42", Party Tyme Karaoke
 https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=17704&partner=littlstar
@@ -77,7 +77,7 @@ https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/CDDXCW6VBIAX3RSGDHOQ/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655131
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/fc1365d59e8a68aef2ad3332711a116a" group-title="" tvg-chno="146", Must See Movies!
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/8ZJV8J9GA7244SZYQ773/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5811cb95a691c8fff941efb609e7fc6b" group-title="" tvg-chno="147", Sports TV by Binge
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5f39c4f004e3049cd4b305a04134e67d" group-title="" tvg-chno="147", Sports TV by Binge
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/2C4UIQNCPY6SO2OTAP6S/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655130
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/794792115e9a4506f83900d9d756fe61" group-title="" tvg-chno="148", Urban Action Showcase Cinema
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/50FJW1L5M37HSUXZVIH3/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655103
@@ -101,13 +101,13 @@ https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/166T98RYAHAH4ALYPZDP/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b5825885e0d97e567d028caae693ed87" group-title="" tvg-chno="158", Urban Action Channel
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/FJQDYDOKQUZM4YXBJ7EI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/9771d8c8ced723458ab790a8f9df2cd6" group-title="" tvg-chno="159", GTR24H
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/3744c1d3e29d18fb36c4ae557a1b1664" group-title="" tvg-chno="159", GTR24H
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/5Z933NS7EQ3VF8XJI8J8/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655125
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/715d09c7-2f3b-4208-83f4-d82337d91d02/15ea201c368ee58a54c602e696661e76" group-title="" tvg-chno="161", Jam in the Van
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/V49YFUXGW17RPGA26RAS/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655119
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/27c722e981bb0c27060da12d77ff6533" group-title="" tvg-chno="162", Box Gamers
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/8T21F8J55W58H26G6DZ4/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Box+Gamers&ads.content_genre=Gaming%2CSports&ads.content_series=box+esport+-+latam+invitational+de+league+of+legends&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.rating=TV14&ads.schain=1&ads.url=&ads.us_privacy=1N-N&ads.vast_id=655117&ads.w=1920&ip=&ua=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/d9439fa850f617f9808b08b3fbb27bad" group-title="" tvg-chno="163", Rockola Television
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/1ecc390b65eef8e91f2fa06c3791136b" group-title="" tvg-chno="163", Rockola Television
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/THPENGVOSYPP4CM9PEEK/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655118
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ede70610-47cb-4b1d-9582-28a78964521a/f6b825d818ae82aae7ccff7aac2bbefa" group-title="" tvg-chno="172", Boxing Spotlight
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/H9MJFVOY4GI5OBRNILAT/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655124
@@ -127,7 +127,7 @@ https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/KLNLCFPN2BMFXSQ3KM34/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/f7f74a4244222436c5ccc87a5609d0ac" group-title="" tvg-chno="181", Xcorps
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/9SKNL2RD3R81QJ9MQ98W/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ace0f75d-b6ef-4f5f-abb2-dd1c7a48f987/baea6c61bb2bb6fcc08979d4a110dd4c" group-title="" tvg-chno="184", Kino Cult
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ace0f75d-b6ef-4f5f-abb2-dd1c7a48f987/a45d8190592bf563e29774818c9d483b" group-title="" tvg-chno="184", Kino Cult
 https://api-ott.kinocult.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=560&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c996c256-b062-424e-82a7-ff0fa1826730/90102a6249126d7818b3814eca0d4776" group-title="" tvg-chno="187", Passion River TV
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/OJMLK8T4KEEN4AQ1CWWB/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Passion+River+TV&ads.content_genre=Documentary%2CEntertainment%2CRomance%2CMovies&ads.content_series=The+Last+Laugh&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.rating=TV14&ads.schain=1&ads.ua=&ads.url=&ads.us_privacy=1N-N&ads.vast_id=665104&ads.w=1920
@@ -153,7 +153,7 @@ https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8
 https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/cbe64488-efc1-4c8b-a9e3-3a423a7ffb37/dc75f1a0457fab3ef4f28b222c36b732" group-title="" tvg-chno="206", Ghost Dimension
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/SD0AM4PWHNYSEEAFZ8UN/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=com.littlstar.android&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.littlstar.android&ads.channel_name=Ghost+Dimension&ads.content_genre=Documentary%2CHorror%2CReality+TV&ads.content_series=Full+House+at+Northwich+Plaza+and+Bingo+Hall&ads.did=&ads.gdpr=1&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.rating=TV14&ads.schain=1&ads.ua=&ads.url=&ads.us_privacy=1N-N&ads.vast_id=680280&ads.w=1920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/54a2def2-e988-483a-bef8-4d560aa0adf0/4306f5efc2d579e2272f9f0d9269064d" group-title="" tvg-chno="204", WBC LIVE x VIVE TV: Boxing Without Borders
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/54a2def2-e988-483a-bef8-4d560aa0adf0/a17e9ae44a7f427aaff8e595dcc23eb8" group-title="" tvg-chno="204", WBC LIVE x VIVE TV: Boxing Without Borders
 https://a5b459c792834d19b4381ef75ced8604.mediatailor.us-east-1.amazonaws.com/v1/master/b540341037514ce955e2d08d3ab12a1d8b5c7965/MediaTailor7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8f3dfb9a-04c2-47a0-b6b5-630af2963f2c/ac193ce5cc17bb358cb938ed57ba542d" group-title="" tvg-chno="208", Nosey
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00560-noseymarathonve-nosey-littlstar/playlist.m3u8?device[dnt]=dnt&device[did]=device_id&consent=consent&us_privacy=us_privacy&coppa=coppa&gdpr=gdpr
