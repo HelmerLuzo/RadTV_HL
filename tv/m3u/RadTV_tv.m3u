@@ -161,3 +161,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00560-noseymarathonve-nosey-littlst
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00560-noseymarathonve-realnosey-littlstar/playlist.m3u8?device[dnt]=dnt&device[did]=device_id&consent=consent&us_privacy=us_privacy&coppa=coppa&gdpr=gdpr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/fc728024-76e9-4b8a-87a8-f4017372297a/74adcdebc24f95fa849176991d63b02e" group-title="" tvg-chno="207", STRYK TV
 https://d437su47pv9ij.cloudfront.net/v1/master/b540341037514ce955e2d08d3ab12a1d8b5c7965/StrykTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7" group-title="" tvg-chno="210", OmStars TV
+https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8
