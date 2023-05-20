@@ -7,8 +7,6 @@ https://api-ott.spacechannel.com/loggingmediaurlpassthrough/a.m3u8?version=12&id
 https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/56cc90c33c25b81ecb101512f76b655a.jpeg" group-title="" tvg-chno="12", World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-LittleStar/161.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=wpt&ads.channel_name=wpt&ads.country=US&ads.app_bundle=com.rad.wpt&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png" group-title="" tvg-chno="45", SKWAD
-https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e491f173-3d29-45be-860f-a0d45b34e428/68a5bddcd020c0449a8922a239e54266" group-title="" tvg-chno="28", Channel Fight Masterclass
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-RAD/266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lsp.littlstar.com/channels/LAW_AND_CRIME/TRIAL_NETWORK.jpg" group-title="" tvg-chno="9", Law & Crime Trial
