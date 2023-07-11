@@ -29,8 +29,6 @@ https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/a93fda7a6381a009ae247326ab35e763.png" group-title="" tvg-chno="42", Party Tyme Karaoke
 https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=17704&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a7c3abe9-f572-4aa2-823f-72218403755a/b132644a35637f4a18cb7f98227c5696.png" group-title="" tvg-chno="124", MMA TV
-https://api-ott.mmatv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1162&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png" group-title="" tvg-chno="125", Poker Night in America
 https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/177eb659-7e20-420b-bf01-562ee6bd266f/abb1708cbe851f4841c60c63154434b6.png" group-title="" tvg-chno="131", Volty TV
