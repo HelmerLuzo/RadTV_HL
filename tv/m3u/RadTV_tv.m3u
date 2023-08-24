@@ -179,3 +179,25 @@ https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/lit
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8?channel_name=encore+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a7c7ef97-ca44-48bb-9d88-cd479fb57409/2af6bdce8e43f629e161b4a1bc576268" group-title="" tvg-chno="249", Escape TV
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8?channel_name=escapetv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/5b60290448eae809dad70b2a59951be0" group-title="" tvg-chno="261", Xtrem Sports
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8?channel_name=xtremsports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/fd962718-1f71-4034-8464-f237f971dba0/6185d259129bc03f1e9e153822e38fc7" group-title="" tvg-chno="260", The Ring TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/c6ca60f4-7537-4e14-899a-edb5ad8a0fdc_0_HLS/manifest.m3u8?channel_name=theringtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/acb64b90-476b-4edc-8a7c-5022332457b0/5669b7f47096fc53db27c728b9a52d03" group-title="" tvg-chno="258", Tensions TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/48528c7b-a214-46c1-83aa-d30da98ed4d3_0_HLS/manifest.m3u8?channel_name=tensionstv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f3bfcbf6-927e-402b-aa76-4c173ecbd34e/731ad807416ab5196b0f3cc03fbc4789" group-title="" tvg-chno="257", Outer Vision Channel
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8?channel_name=outervisiontv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/043fd8421cc9e9358779dde1f8444860" group-title="" tvg-chno="256", Nitro TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8?channel_name=nitrotv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5e873901-4afc-4d5f-89c9-3260feb9f517/ab81de54ca779853b6aa74486378ab8b" group-title="" tvg-chno="255", LOL TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8?channel_name=loltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/e6e0c6e272aa3ce81eda4fea844e37db" group-title="" tvg-chno="254", Jupiter TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/6f01beb9-8426-4c7e-abb9-f1e10c392adc_0_HLS/manifest.m3u8?channel_name=jupitertv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/909cc939f49607699c03f9d843a3eec2" group-title="" tvg-chno="253", Horror TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8?channel_name=horrortv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e8af698da12cf0c8f033d0bbe02054cf" group-title="" tvg-chno="252", Heritage+
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar5_sofast/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/manifest.m3u8?channel_name=heritage+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f" group-title="" tvg-chno="251", Heritage Tourism TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378" group-title="" tvg-chno="250", Fight TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv
