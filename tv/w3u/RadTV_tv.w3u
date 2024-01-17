@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 17/01/2024 12:13",
+    "author": "Actualizada 18/01/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -11,7 +11,7 @@
         },
         {
             "name": "Altrd.tv",
-            "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/e0f620098a33f22c7c89573b41d1cf36",
+            "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/0afe1a62c827eb307dd197fa18c7b552",
             "url": "https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar"
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "name": "NHRA TV",
-            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/260d8ea23474e147e8263785b6dfeb03.png",
+            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg",
             "url": "https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar"
         },
         {
@@ -81,7 +81,7 @@
         },
         {
             "name": "Poker Night in America",
-            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/4b7b9bb949fadffe0ada826d4933eaf6.png",
+            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png",
             "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324"
         },
         {
@@ -131,12 +131,12 @@
         },
         {
             "name": "Must See Movies!",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/e7dfbdab4e33a00fd33ce5cf96457466",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/fc1365d59e8a68aef2ad3332711a116a",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8ZJV8J9GA7244SZYQ773/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Must+See+Movies%21&ads.content_genre=Entertainment%2CMovies&ads.content_series=UN+NUEVO+COMIENZO&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Binge+Network&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBI123&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
             "name": "Urban Action Showcase Cinema",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/e39b760285b60ee38b5a207b364984f7",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/794792115e9a4506f83900d9d756fe61",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/50FJW1L5M37HSUXZVIH3/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Urban+Action+Showcase+Cinema&ads.content_genre=Action%2CEntertainment%2CMovies&ads.content_series=UASC+-+Stu+Bennett+Interview&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Binge+Network&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBI135&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
             "name": "Kung Fu Movies",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/10832055427e151855ab6378b001bd01",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/18c93d55c785774f7a0eda5cca31272c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/166T98RYAHAH4ALYPZDP/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Kung+Fu+Movies&ads.content_genre=Action%2CClassic%2CMovies&ads.content_series=Black+Fist&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Global+Media&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGL104&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -191,7 +191,7 @@
         },
         {
             "name": "GTR24H",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/3744c1d3e29d18fb36c4ae557a1b1664",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/9771d8c8ced723458ab790a8f9df2cd6",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/5Z933NS7EQ3VF8XJI8J8/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=GTR24H&ads.content_genre=Sports&ads.content_series=racepart2&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=GTR24H&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGT100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -201,7 +201,7 @@
         },
         {
             "name": "Rockola Television",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/1ecc390b65eef8e91f2fa06c3791136b",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/d9439fa850f617f9808b08b3fbb27bad",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/THPENGVOSYPP4CM9PEEK/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Rockola+Television&ads.content_genre=Music&ads.content_series=top+90s+-+rockola+television+song+%287%29&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-6&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SKL105&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -236,7 +236,7 @@
         },
         {
             "name": "Travel & Food TV",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/edec0f7bbaadd751aa54d12db6bf49be",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/e70e86214dd20e6d5ee8a1332dce676e",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/5EF249LDBS7HYL3BSNXO/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Travel+%26+Food+TV&ads.content_genre=Food%2CLifestyle&ads.content_series=Cusco+-+Peru&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB8&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA118&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -246,7 +246,7 @@
         },
         {
             "name": "Xcorps",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/cb21ca4548a5730e954871b358e68227",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/f7f74a4244222436c5ccc87a5609d0ac",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/9SKNL2RD3R81QJ9MQ98W/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Xcorps&ads.content_genre=Music%2CSports&ads.content_series=xcorps42mxgirls&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA120&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -256,12 +256,12 @@
         },
         {
             "name": "Deluxe Lounge HD",
-            "image": "https://static.12core.net/media/content/stream/add3078a-b342-41c8-ac69-dbfe255dbc35/4db679bdfd523c22881d18029977df4a",
+            "image": "https://static.12core.net/media/content/stream/add3078a-b342-41c8-ac69-dbfe255dbc35/4a8bb0fa467bdcf2c7079d746d7c1e02",
             "url": "https://api-ott.highview.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=742&partner=littlstar"
         },
         {
             "name": "Edgy TV",
-            "image": "https://static.12core.net/media/content/stream/11655a75-8323-43fa-bf00-8a432a93f4a0/328716c45d9602ca4d8d2a7bdbbf57ca",
+            "image": "https://static.12core.net/media/content/stream/11655a75-8323-43fa-bf00-8a432a93f4a0/8a34a1e10cc8a10aa2b6744e68b65b9c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TBBJA5AX5Z044MXV36LM/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Edgy+TV&ads.content_genre=Lifestyle&ads.content_series=The+Rivers&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-7&ads.ip=&ads.pod_max_dur=&ads.provider=Edgy+TV&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SED100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -291,7 +291,7 @@
         },
         {
             "name": "Revry Premium",
-            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/304b074ebee0ef1c59ea70cb45e16e34.jpg",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
             "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
         },
         {
@@ -306,7 +306,7 @@
         },
         {
             "name": "Judge Nosey",
-            "image": "https://static.12core.net/media/content/stream/a9bc3157-8b50-44fd-b70c-9045b6c6a7df/bbc10ccc19a5f55dce18637ca59bf241",
+            "image": "https://static.12core.net/media/content/stream/a9bc3157-8b50-44fd-b70c-9045b6c6a7df/ae4cc10c626d70b27bb9104d759acddd",
             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00560-noseymarathonve-realnosey-littlstar/playlist.m3u8?device[dnt]=dnt&device[did]=device_id&consent=consent&us_privacy=us_privacy&coppa=coppa&gdpr=gdpr"
         },
         {
@@ -351,7 +351,7 @@
         },
         {
             "name": "House of Cards",
-            "image": "https://static.12core.net/media/content/stream/bc5669fb-1b50-4b8e-b44b-79fed4a213bf/a0d9369e469076c1e0eebeb51f480f9a",
+            "image": "https://static.12core.net/media/content/stream/bc5669fb-1b50-4b8e-b44b-79fed4a213bf/8bc2cef261dcca60017da4c22f20319e",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/4S2GLNZ0FVCXH7TF3KHO/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=House+of+Cards&ads.content_genre=Comedy%2CTalk+Show&ads.content_series=House+of+Cards%C2%AE+-+Ep.+692&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-7&ads.ip=&ads.pod_max_dur=&ads.provider=Binge+Network&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBI114&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -391,7 +391,7 @@
         },
         {
             "name": "a-z Western Grit",
-            "image": "https://static.12core.net/media/content/stream/a3c8d9da-f400-4200-adaa-56278ca6bdba/a461ef1107318bd0e072e60faf970589",
+            "image": "https://static.12core.net/media/content/stream/a3c8d9da-f400-4200-adaa-56278ca6bdba/3db7854a4b2ae98295b8e02cf1c56b3e",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/UXKNVKLLDBD9PJYF8960/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=a-z+Western+Grit&ads.content_genre=Action%2CEntertainment%2CWestern%2CMovies&ads.content_series=Voices+of+the+Town&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Echelon&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SEC118&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -421,7 +421,7 @@
         },
         {
             "name": "The Drive In Movie Channel",
-            "image": "https://static.12core.net/media/content/stream/a5b970c6-8241-47f0-8026-b3dac437c073/f5a24d7bd81705cfc4775e9b26229dd1",
+            "image": "https://static.12core.net/media/content/stream/a5b970c6-8241-47f0-8026-b3dac437c073/ac26f70ff3ed4b19240ace6f5d96cf30",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/4a62c62d-f816-4416-95e8-82e1a657a48a_0_HLS/manifest.m3u8?channel_name=driveinmoviechannel"
         },
         {
@@ -446,7 +446,7 @@
         },
         {
             "name": "The Ring TV",
-            "image": "https://static.12core.net/media/content/stream/fd962718-1f71-4034-8464-f237f971dba0/7576d702f335db20b61cd155916bdb01",
+            "image": "https://static.12core.net/media/content/stream/fd962718-1f71-4034-8464-f237f971dba0/6185d259129bc03f1e9e153822e38fc7",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/c6ca60f4-7537-4e14-899a-edb5ad8a0fdc_0_HLS/manifest.m3u8?channel_name=theringtv"
         },
         {
@@ -456,7 +456,7 @@
         },
         {
             "name": "Outer Vision Channel",
-            "image": "https://static.12core.net/media/content/stream/f3bfcbf6-927e-402b-aa76-4c173ecbd34e/c4d42754badf56f91bb362ae48b263fa",
+            "image": "https://static.12core.net/media/content/stream/f3bfcbf6-927e-402b-aa76-4c173ecbd34e/731ad807416ab5196b0f3cc03fbc4789",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8?channel_name=outervisiontv"
         },
         {
@@ -471,7 +471,7 @@
         },
         {
             "name": "Jupiter TV",
-            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/016efd13f2d0f55a3e6a5d38aa882b93",
+            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/e6e0c6e272aa3ce81eda4fea844e37db",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/6f01beb9-8426-4c7e-abb9-f1e10c392adc_0_HLS/manifest.m3u8?channel_name=jupitertv"
         },
         {
@@ -496,7 +496,7 @@
         },
         {
             "name": "Inside the Game",
-            "image": "https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/8e2a6d8f74e25fbbe83c82066c1c70ac",
+            "image": "https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/087ad90de2fb3e9c5f4479bd1881b623",
             "url": "https://vcnitg.teleosmedia.com/linear/itg/insidethegame/c8e4b0f3-d8c8-4002-941d-eed2952d5cd8_1080p.m3u8"
         }
     ]
