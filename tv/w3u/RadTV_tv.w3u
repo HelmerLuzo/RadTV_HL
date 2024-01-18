@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 18/01/2024 00:13",
+    "author": "Actualizada 18/01/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -11,7 +11,7 @@
         },
         {
             "name": "Altrd.tv",
-            "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/0afe1a62c827eb307dd197fa18c7b552",
+            "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/e0f620098a33f22c7c89573b41d1cf36",
             "url": "https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar"
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "name": "NHRA TV",
-            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg",
+            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/260d8ea23474e147e8263785b6dfeb03.png",
             "url": "https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar"
         },
         {
@@ -116,7 +116,7 @@
         },
         {
             "name": "Nomad TV",
-            "image": "https://static.12core.net/media/content/stream/6703ce0b-e832-46d7-a242-352393a9e294/bf77e9f2390bc3b7a39a1de29b226c04",
+            "image": "https://static.12core.net/media/content/stream/6703ce0b-e832-46d7-a242-352393a9e294/2a0f2a8cff0257f3b0b8392059edd929",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/H7NFB8MYK7EO477FLNEU/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=NOMADslow+tv&ads.content_genre=Health%2CLifestyle%2CRelaxing&ads.content_series=bridge+crossing+-+poirier+-+sous+le+manguier+-+09+-+dserte+la+nuit&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=NOMADslow&ads.rating=TVG&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SNO100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -156,7 +156,7 @@
         },
         {
             "name": "a-z Best Classic TV",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/efaa7155699abe01aceb1f49b5638ceb",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/ad24af149feb9b166afa0b409f99bbdf",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/PPGG4JK7HNNUIKY67UVZ/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=a-z+Best+Classic+TV&ads.content_genre=Classic%2CTV&ads.content_series=My+Little+Margie+-+S3E34%3A+Honeyboy+Honeywell&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-7&ads.ip=&ads.pod_max_dur=&ads.provider=Echelon&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SEC104&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
             "name": "Kung Fu Movies",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/18c93d55c785774f7a0eda5cca31272c",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/10832055427e151855ab6378b001bd01",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/166T98RYAHAH4ALYPZDP/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Kung+Fu+Movies&ads.content_genre=Action%2CClassic%2CMovies&ads.content_series=Black+Fist&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Global+Media&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGL104&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -221,7 +221,7 @@
         },
         {
             "name": "Kick Sports News",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/ba60ec79a962e4d73e06c32537cba1d2",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/eaa2924935885123426a592c535987b1",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WF8PPUQI3GC989C8AG20/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Kick+Sports+News&ads.content_genre=Sports&ads.content_series=spn09012021&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA112&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -236,7 +236,7 @@
         },
         {
             "name": "Travel & Food TV",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/e70e86214dd20e6d5ee8a1332dce676e",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/edec0f7bbaadd751aa54d12db6bf49be",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/5EF249LDBS7HYL3BSNXO/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Travel+%26+Food+TV&ads.content_genre=Food%2CLifestyle&ads.content_series=Cusco+-+Peru&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB8&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA118&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -256,12 +256,12 @@
         },
         {
             "name": "Deluxe Lounge HD",
-            "image": "https://static.12core.net/media/content/stream/add3078a-b342-41c8-ac69-dbfe255dbc35/4a8bb0fa467bdcf2c7079d746d7c1e02",
+            "image": "https://static.12core.net/media/content/stream/add3078a-b342-41c8-ac69-dbfe255dbc35/4db679bdfd523c22881d18029977df4a",
             "url": "https://api-ott.highview.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=742&partner=littlstar"
         },
         {
             "name": "Edgy TV",
-            "image": "https://static.12core.net/media/content/stream/11655a75-8323-43fa-bf00-8a432a93f4a0/8a34a1e10cc8a10aa2b6744e68b65b9c",
+            "image": "https://static.12core.net/media/content/stream/11655a75-8323-43fa-bf00-8a432a93f4a0/328716c45d9602ca4d8d2a7bdbbf57ca",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TBBJA5AX5Z044MXV36LM/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Edgy+TV&ads.content_genre=Lifestyle&ads.content_series=The+Rivers&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-7&ads.ip=&ads.pod_max_dur=&ads.provider=Edgy+TV&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SED100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -276,7 +276,7 @@
         },
         {
             "name": "BVIRAL",
-            "image": "https://static.12core.net/media/content/stream/2651af79-b60e-4741-a56d-937bbed0df70/e497678b4c002becd9c2eb0429703115",
+            "image": "https://static.12core.net/media/content/stream/2651af79-b60e-4741-a56d-937bbed0df70/cebc5166c1fc1c26f1a553f72733812b",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/FACRAUJDNPMIKLJXKV9F/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=BVIRAL&ads.content_genre=Comedy%2CEntertainment%2CFamily%2CReality+TV&ads.content_series=Bait+Car+Prank+on+Strangers&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-4&ads.ip=&ads.pod_max_dur=&ads.provider=BVIRAL&ads.rating=TVG&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBV100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -291,7 +291,7 @@
         },
         {
             "name": "Revry Premium",
-            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/304b074ebee0ef1c59ea70cb45e16e34.jpg",
             "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
         },
         {
@@ -371,7 +371,7 @@
         },
         {
             "name": "TRACE Sport Stars",
-            "image": "https://static.12core.net/media/content/stream/810732e2-ff39-4eda-a62b-68d96a48396b/8b7092f25698e217e8f306cc250577a2",
+            "image": "https://static.12core.net/media/content/stream/810732e2-ff39-4eda-a62b-68d96a48396b/cc9a158dc182b9f795f75c3a475e6b23",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/NJ86UCZDGVJR7XAIYU0P/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=TRACE+Sport+Stars&ads.content_genre=Sports&ads.content_series=HOMAGE+EP35+THE+UNCONVENTIONALS+OF+FOOTBALL&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=Binge+Network&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBI132&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -406,7 +406,7 @@
         },
         {
             "name": "Bang Bang TV",
-            "image": "https://static.12core.net/media/content/stream/7e624537-e550-483d-adb9-8b27c9e85977/48f82477b5d47fd1836fcf05a6c7cc80",
+            "image": "https://static.12core.net/media/content/stream/7e624537-e550-483d-adb9-8b27c9e85977/9d17daf043aaadb480e2d2c1f60320ce",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fd7c895e-aa96-4298-ad6d-2be4936f5347_0_HLS/manifest.m3u8?channel_name=bangbangtv"
         },
         {
@@ -436,12 +436,12 @@
         },
         {
             "name": "Escape TV",
-            "image": "https://static.12core.net/media/content/stream/a7c7ef97-ca44-48bb-9d88-cd479fb57409/2af6bdce8e43f629e161b4a1bc576268",
+            "image": "https://static.12core.net/media/content/stream/a7c7ef97-ca44-48bb-9d88-cd479fb57409/044840123c13987b59492d7ac9f0ddb8",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8?channel_name=escapetv"
         },
         {
             "name": "Xtrem Sports",
-            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/5b60290448eae809dad70b2a59951be0",
+            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/ee49cf6e5d1b9f46493f4d20306e5014",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8?channel_name=xtremsports"
         },
         {
@@ -471,7 +471,7 @@
         },
         {
             "name": "Jupiter TV",
-            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/e6e0c6e272aa3ce81eda4fea844e37db",
+            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/10edfcf5b7904e51f1f0698b6d35b4c3",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/6f01beb9-8426-4c7e-abb9-f1e10c392adc_0_HLS/manifest.m3u8?channel_name=jupitertv"
         },
         {
@@ -486,12 +486,12 @@
         },
         {
             "name": "Heritage Tourism TV",
-            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f",
+            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/8ffc07f65da344be7cb01c791dee593c",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv"
         },
         {
             "name": "Fight TV",
-            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
+            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/57043b984df0d161d32cffc1663bc515",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
         },
         {
