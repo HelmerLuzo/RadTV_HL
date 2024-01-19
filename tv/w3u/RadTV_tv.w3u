@@ -1,12 +1,12 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 19/01/2024 12:13",
+    "author": "Actualizada 20/01/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
         {
             "name": "GoTraveler",
-            "image": "https://static.12core.net/ea526280bad2654465a9b17dfed469ed.png",
+            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
             "url": "https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=677&partner=littlstar"
         },
         {
@@ -81,7 +81,7 @@
         },
         {
             "name": "Poker Night in America",
-            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/4b7b9bb949fadffe0ada826d4933eaf6.png",
+            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png",
             "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
             "name": "Kung Fu Movies",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/10832055427e151855ab6378b001bd01",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/18c93d55c785774f7a0eda5cca31272c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/166T98RYAHAH4ALYPZDP/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Kung+Fu+Movies&ads.content_genre=Action%2CClassic%2CMovies&ads.content_series=Black+Fist&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Global+Media&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGL104&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -201,7 +201,7 @@
         },
         {
             "name": "Rockola Television",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/1ecc390b65eef8e91f2fa06c3791136b",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/d9439fa850f617f9808b08b3fbb27bad",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/THPENGVOSYPP4CM9PEEK/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Rockola+Television&ads.content_genre=Music&ads.content_series=top+90s+-+rockola+television+song+%287%29&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-6&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SKL105&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -246,7 +246,7 @@
         },
         {
             "name": "Xcorps",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/cb21ca4548a5730e954871b358e68227",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/f7f74a4244222436c5ccc87a5609d0ac",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/9SKNL2RD3R81QJ9MQ98W/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Xcorps&ads.content_genre=Music%2CSports&ads.content_series=xcorps42mxgirls&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA120&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -276,7 +276,7 @@
         },
         {
             "name": "BVIRAL",
-            "image": "https://static.12core.net/media/content/stream/2651af79-b60e-4741-a56d-937bbed0df70/cebc5166c1fc1c26f1a553f72733812b",
+            "image": "https://static.12core.net/media/content/stream/2651af79-b60e-4741-a56d-937bbed0df70/e497678b4c002becd9c2eb0429703115",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/FACRAUJDNPMIKLJXKV9F/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=BVIRAL&ads.content_genre=Comedy%2CEntertainment%2CFamily%2CReality+TV&ads.content_series=Bait+Car+Prank+on+Strangers&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-4&ads.ip=&ads.pod_max_dur=&ads.provider=BVIRAL&ads.rating=TVG&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBV100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -291,7 +291,7 @@
         },
         {
             "name": "Revry Premium",
-            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/304b074ebee0ef1c59ea70cb45e16e34.jpg",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
             "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
         },
         {
@@ -306,12 +306,12 @@
         },
         {
             "name": "Judge Nosey",
-            "image": "https://static.12core.net/media/content/stream/a9bc3157-8b50-44fd-b70c-9045b6c6a7df/bbc10ccc19a5f55dce18637ca59bf241",
+            "image": "https://static.12core.net/media/content/stream/a9bc3157-8b50-44fd-b70c-9045b6c6a7df/ae4cc10c626d70b27bb9104d759acddd",
             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00560-noseymarathonve-realnosey-littlstar/playlist.m3u8?device[dnt]=dnt&device[did]=device_id&consent=consent&us_privacy=us_privacy&coppa=coppa&gdpr=gdpr"
         },
         {
             "name": "OmStars TV",
-            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/fbaa82af37a165dfcca001ab95defafc",
+            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7",
             "url": "https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8"
         },
         {
@@ -331,7 +331,7 @@
         },
         {
             "name": "Fitness Rewind by Collage Video",
-            "image": "https://static.12core.net/media/content/stream/f7c88104-32e5-431d-aa79-c2134e0d4360/f227d2a783d490dedbfc41c6674b1687",
+            "image": "https://static.12core.net/media/content/stream/f7c88104-32e5-431d-aa79-c2134e0d4360/2c5e1097ab36b2ad5ea99b8da7501ad7",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/W9JMLB0PZIYA1NS2Y11N/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Fitness+Rewind+by+Collage+Video&ads.content_genre=Fitness%2CSports&ads.content_series=Amy+Bento+Ross%27+Body+Box&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB7&ads.ip=&ads.pod_max_dur=&ads.provider=Bayview+Entertainment&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBV100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -386,7 +386,7 @@
         },
         {
             "name": "MMA Futures",
-            "image": "https://static.12core.net/media/content/stream/1f8a2e83-c2cc-4953-88a4-99303df18fab/98f2bd62badb73b6ffc5d60ee477e5ba",
+            "image": "https://static.12core.net/media/content/stream/1f8a2e83-c2cc-4953-88a4-99303df18fab/e3c4e7858f3725e6e9f118984f58ab1c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/UED4LT8C096086OYYXO0/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=MMA+Futures&ads.content_genre=Sports&ads.content_series=Ignite+Presents+wcgg+2&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA122&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -396,7 +396,7 @@
         },
         {
             "name": "4K Travel TV",
-            "image": "https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/64ee9337c56b30df9b5ea89fc09dbe00",
+            "image": "https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8?channel_name=4ktraveltv"
         },
         {
@@ -406,7 +406,7 @@
         },
         {
             "name": "Bang Bang TV",
-            "image": "https://static.12core.net/media/content/stream/7e624537-e550-483d-adb9-8b27c9e85977/9d17daf043aaadb480e2d2c1f60320ce",
+            "image": "https://static.12core.net/media/content/stream/7e624537-e550-483d-adb9-8b27c9e85977/48f82477b5d47fd1836fcf05a6c7cc80",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fd7c895e-aa96-4298-ad6d-2be4936f5347_0_HLS/manifest.m3u8?channel_name=bangbangtv"
         },
         {
@@ -416,7 +416,7 @@
         },
         {
             "name": "Danger Vision TV",
-            "image": "https://static.12core.net/media/content/stream/5b16085c-fa0d-4b6d-86be-79781232ca42/a7080f673ddc8b1822c47e4fe318cd2e",
+            "image": "https://static.12core.net/media/content/stream/5b16085c-fa0d-4b6d-86be-79781232ca42/4ffcaabbb36cce8daf3a64316fc4716f",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8?channel_name=dangervisiontv"
         },
         {
@@ -426,7 +426,7 @@
         },
         {
             "name": "Drive+Speed",
-            "image": "https://static.12core.net/media/content/stream/471e4fcb-1fea-4c11-b701-c5ae44c8235c/38ee330e5d0786c402b272ca23a9511f",
+            "image": "https://static.12core.net/media/content/stream/471e4fcb-1fea-4c11-b701-c5ae44c8235c/6dec98d75831ea765c840ba1938491b8",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8?channel_name=drive+speed"
         },
         {
@@ -441,7 +441,7 @@
         },
         {
             "name": "Xtrem Sports",
-            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/ee49cf6e5d1b9f46493f4d20306e5014",
+            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/5b60290448eae809dad70b2a59951be0",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8?channel_name=xtremsports"
         },
         {
@@ -471,7 +471,7 @@
         },
         {
             "name": "Jupiter TV",
-            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/10edfcf5b7904e51f1f0698b6d35b4c3",
+            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/e6e0c6e272aa3ce81eda4fea844e37db",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/6f01beb9-8426-4c7e-abb9-f1e10c392adc_0_HLS/manifest.m3u8?channel_name=jupitertv"
         },
         {
@@ -486,12 +486,12 @@
         },
         {
             "name": "Heritage Tourism TV",
-            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/8ffc07f65da344be7cb01c791dee593c",
+            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv"
         },
         {
             "name": "Fight TV",
-            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/57043b984df0d161d32cffc1663bc515",
+            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
         },
         {
