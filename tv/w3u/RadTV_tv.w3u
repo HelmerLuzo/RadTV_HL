@@ -1,12 +1,12 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 20/01/2024 12:13",
+    "author": "Actualizada 21/01/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
         {
             "name": "GoTraveler",
-            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
+            "image": "https://static.12core.net/ea526280bad2654465a9b17dfed469ed.png",
             "url": "https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=677&partner=littlstar"
         },
         {
@@ -66,12 +66,12 @@
         },
         {
             "name": "Fido TV",
-            "image": "https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png",
+            "image": "https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/0b0228b05a117d06d90966207e7d1e26.png",
             "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8"
         },
         {
             "name": "Lacrosse Sports Network",
-            "image": "https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png",
+            "image": "https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/1a9964e07296388196fd389d4658f225.jpg",
             "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
         },
         {
@@ -81,7 +81,7 @@
         },
         {
             "name": "Poker Night in America",
-            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png",
+            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/4b7b9bb949fadffe0ada826d4933eaf6.png",
             "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324"
         },
         {
@@ -121,7 +121,7 @@
         },
         {
             "name": "A+ Cinema",
-            "image": "https://static.12core.net/media/content/stream/dfaf705f-060b-496d-af62-7b18dab0e9c1/d4b4ebe6bd791687da870cafec9ab675",
+            "image": "https://static.12core.net/media/content/stream/dfaf705f-060b-496d-af62-7b18dab0e9c1/60e4f2d37a5d9fc11047895f5ea5c41c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2FMFNDW96P301TQML75E/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=A%2B+Cinema&ads.content_genre=Entertainment%2CMovies&ads.content_series=CHILDREN+OF+SUMMER&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Binge+Network&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBI100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -191,7 +191,7 @@
         },
         {
             "name": "GTR24H",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/9771d8c8ced723458ab790a8f9df2cd6",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/3744c1d3e29d18fb36c4ae557a1b1664",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/5Z933NS7EQ3VF8XJI8J8/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=GTR24H&ads.content_genre=Sports&ads.content_series=racepart2&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=GTR24H&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGT100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -201,7 +201,7 @@
         },
         {
             "name": "Rockola Television",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/d9439fa850f617f9808b08b3fbb27bad",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/1ecc390b65eef8e91f2fa06c3791136b",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/THPENGVOSYPP4CM9PEEK/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Rockola+Television&ads.content_genre=Music&ads.content_series=top+90s+-+rockola+television+song+%287%29&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-6&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SKL105&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -211,7 +211,7 @@
         },
         {
             "name": "Comedy Classics",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/380125c327fb009ffb027fb07b84870a",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/5759bb39487120f4bcd4254247200114",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TAZBIBATBOB7DWIY11DB/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Comedy+Classics&ads.content_genre=Classic%2CComedy&ads.content_series=The+Little+Princess+1939&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-4&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA108&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -221,12 +221,12 @@
         },
         {
             "name": "Kick Sports News",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/ba60ec79a962e4d73e06c32537cba1d2",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/eaa2924935885123426a592c535987b1",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WF8PPUQI3GC989C8AG20/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Kick+Sports+News&ads.content_genre=Sports&ads.content_series=spn09012021&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA112&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
             "name": "Old West TV",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/6146b678d2dc5f619b2eaae052d87c40",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/f6357c57cd976049143011b54ac51e47",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/MSJE36I01V44MAYS4NG7/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Old+West+TV&ads.content_genre=Western%2CMovies&ads.content_series=The+Roy+Roger+Show+1952%3A+Season+1%3B+Episode+4%3BThe+Treasure+of+Howling+Dog+Canyon&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA114&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -261,7 +261,7 @@
         },
         {
             "name": "Edgy TV",
-            "image": "https://static.12core.net/media/content/stream/11655a75-8323-43fa-bf00-8a432a93f4a0/8a34a1e10cc8a10aa2b6744e68b65b9c",
+            "image": "https://static.12core.net/media/content/stream/11655a75-8323-43fa-bf00-8a432a93f4a0/328716c45d9602ca4d8d2a7bdbbf57ca",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TBBJA5AX5Z044MXV36LM/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Edgy+TV&ads.content_genre=Lifestyle&ads.content_series=The+Rivers&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-7&ads.ip=&ads.pod_max_dur=&ads.provider=Edgy+TV&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SED100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -366,12 +366,12 @@
         },
         {
             "name": "The Killer Movie Channel",
-            "image": "https://static.12core.net/media/content/stream/fcdc3741-2cfb-45ce-a155-899f6cb674aa/7c18a04898b796cd80ff199dfd4bcc91",
+            "image": "https://static.12core.net/media/content/stream/fcdc3741-2cfb-45ce-a155-899f6cb674aa/9bc456137fe0fd73f1219da58b2ecfdc",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2KWGOJMXRGIVL7J2J07H/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=The+Killer+Movie+Channel&ads.content_genre=Classic%2CHorror%2CSci+Fi%2CThriller%2CMovies&ads.content_series=Soul+Copyright&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=SGL+Entertainment&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SSG100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
             "name": "TRACE Sport Stars",
-            "image": "https://static.12core.net/media/content/stream/810732e2-ff39-4eda-a62b-68d96a48396b/8b7092f25698e217e8f306cc250577a2",
+            "image": "https://static.12core.net/media/content/stream/810732e2-ff39-4eda-a62b-68d96a48396b/cc9a158dc182b9f795f75c3a475e6b23",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/NJ86UCZDGVJR7XAIYU0P/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=TRACE+Sport+Stars&ads.content_genre=Sports&ads.content_series=HOMAGE+EP35+THE+UNCONVENTIONALS+OF+FOOTBALL&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=Binge+Network&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SBI132&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -391,12 +391,12 @@
         },
         {
             "name": "a-z Western Grit",
-            "image": "https://static.12core.net/media/content/stream/a3c8d9da-f400-4200-adaa-56278ca6bdba/3db7854a4b2ae98295b8e02cf1c56b3e",
+            "image": "https://static.12core.net/media/content/stream/a3c8d9da-f400-4200-adaa-56278ca6bdba/dfb6037513a436d93ca5d987647a9f08",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/UXKNVKLLDBD9PJYF8960/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=a-z+Western+Grit&ads.content_genre=Action%2CEntertainment%2CWestern%2CMovies&ads.content_series=Voices+of+the+Town&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Echelon&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SEC118&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
             "name": "4K Travel TV",
-            "image": "https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",
+            "image": "https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/64ee9337c56b30df9b5ea89fc09dbe00",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8?channel_name=4ktraveltv"
         },
         {
@@ -416,7 +416,7 @@
         },
         {
             "name": "Danger Vision TV",
-            "image": "https://static.12core.net/media/content/stream/5b16085c-fa0d-4b6d-86be-79781232ca42/4ffcaabbb36cce8daf3a64316fc4716f",
+            "image": "https://static.12core.net/media/content/stream/5b16085c-fa0d-4b6d-86be-79781232ca42/a7080f673ddc8b1822c47e4fe318cd2e",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8?channel_name=dangervisiontv"
         },
         {
