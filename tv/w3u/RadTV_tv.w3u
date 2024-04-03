@@ -1,13 +1,13 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 03/04/2024 12:13",
+    "author": "Actualizada 04/04/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
         {
             "name": "GoTraveler",
             "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
-            "url": "https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=677&partner=littlstar"
+            "url": "https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
         },
         {
             "name": "Altrd.tv",
@@ -27,7 +27,7 @@
         {
             "name": "Law & Crime Trial",
             "image": "https://lsp.littlstar.com/channels/LAW_AND_CRIME/TRIAL_NETWORK.jpg",
-            "url": "https://lawcrime.s.llnwi.net/h24/lawcrimech1/playlist-absolute_scte.m3u8"
+            "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
         },
         {
             "name": "The Country Network",
@@ -97,7 +97,7 @@
         {
             "name": "Familytime",
             "image": "https://static.12core.net/media/content/stream/00e540db-1c49-43c8-b3cc-ff46f8c58f48/92dc8b76a91ec74003ef10898bcf8c7a",
-            "url": "https://api-ott.familytime.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1321&partner=littlstar"
+            "url": "https://amg09501-amg09501c3-littlestar-us-2406.playouts.now.amagi.tv/playlist/amg09501-quester-familytime-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
         },
         {
             "name": "Cowboy Theater",
@@ -257,12 +257,12 @@
         {
             "name": "Law & Crime Trial",
             "image": "https://lsp.littlstar.com/channels/LAW_AND_CRIME/TRIAL_NETWORK.jpg",
-            "url": "https://lawcrime.s.llnwi.net/h24/lawcrimech1/playlist-absolute_scte.m3u8"
+            "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
         },
         {
             "name": "Law & Crime Rewind",
             "image": "https://lsp.littlstar.com/channels/LAW_AND_CRIME/REWIND.jpg",
-            "url": "https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist-absolute_scte.m3u8"
+            "url": "https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8"
         }
     ]
 }
