@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 15/04/2024 12:13",
+    "author": "Actualizada 16/04/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -88,11 +88,6 @@
             "name": "OAN Plus",
             "image": "https://static.12core.net/media/content/stream/45545aff-0d47-44fc-9894-1d329b731adf/700b8fba246fbd11d56143e56eb9de60.jpg",
             "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=918&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB11-5&content_channel=OAN%20Plus&content_genre=news&content_language=en&content_network=OAN%20Plus&content_prodqual=1&content_producer=OAN&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]"
-        },
-        {
-            "name": "Outdoor America",
-            "image": "https://static.12core.net/media/content/stream/ca6ea9b2-c001-4e58-aac8-5cb34152ff9b/3a325f473ca57a14610d70d2c884b3d7.jpg",
-            "url": "https://api-ott.outdooramerica.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=littlstar"
         },
         {
             "name": "Familytime",
