@@ -7,7 +7,7 @@ https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-LittleStar/161.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=wpt&ads.channel_name=wpt&ads.country=US&ads.app_bundle=com.rad.wpt&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png" group-title="" tvg-chno="45", SKWAD
 https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lsp.littlstar.com/channels/LAW_AND_CRIME/TRIAL_NETWORK.jpg" group-title="" tvg-chno="9", Law & Crime Trial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba" group-title="" tvg-chno="9", Law & Crime Trial
 https://cdn.lawandcrime.net/247/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/bf49c43ee211c091e1ba1dae7eea4abd.jpeg" group-title="" tvg-chno="80", The Country Network
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-TCNV2/index.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=tcn&ads.channel_name=tcn&ads.country=US&ads.app_bundle=com.rad.tcn&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324
@@ -97,7 +97,7 @@ https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/lit
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8?channel_name=bestactiontv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/087ad90de2fb3e9c5f4479bd1881b623" group-title="" tvg-chno="262", Inside the Game
 https://vcnitg.teleosmedia.com/linear/itg/insidethegame/c8e4b0f3-d8c8-4002-941d-eed2952d5cd8_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lsp.littlstar.com/channels/LAW_AND_CRIME/TRIAL_NETWORK.jpg" group-title="" tvg-chno="9", Law & Crime Trial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba" group-title="" tvg-chno="9", Law & Crime Trial
 https://cdn.lawandcrime.net/247/playlist_scte.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lsp.littlstar.com/channels/LAW_AND_CRIME/REWIND.jpg" group-title="" tvg-chno="8", Law & Crime Rewind
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/b17744f9-8644-4cdd-a7bc-1e70a597d360/f8d74a948d7fe918d072349d99d2d4b6" group-title="" tvg-chno="8", Law & Crime Rewind
 https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
