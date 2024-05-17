@@ -63,10 +63,6 @@ https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/lit
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/4a62c62d-f816-4416-95e8-82e1a657a48a_0_HLS/manifest.m3u8?channel_name=driveinmoviechannel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ea3bac6c-8dca-42d1-be02-12eea6bc7ca6/ae858fea44a33190a00878748e2dceaa" group-title="" tvg-chno="248", Encore+
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8?channel_name=encore+
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a7c7ef97-ca44-48bb-9d88-cd479fb57409/2af6bdce8e43f629e161b4a1bc576268" group-title="" tvg-chno="249", Escape TV
-https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8?channel_name=escapetv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/fd962718-1f71-4034-8464-f237f971dba0/6185d259129bc03f1e9e153822e38fc7" group-title="" tvg-chno="260", The Ring TV
-https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/c6ca60f4-7537-4e14-899a-edb5ad8a0fdc_0_HLS/manifest.m3u8?channel_name=theringtv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/acb64b90-476b-4edc-8a7c-5022332457b0/5669b7f47096fc53db27c728b9a52d03" group-title="" tvg-chno="258", Tensions TV
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/48528c7b-a214-46c1-83aa-d30da98ed4d3_0_HLS/manifest.m3u8?channel_name=tensionstv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/5b60290448eae809dad70b2a59951be0" group-title="" tvg-chno="261", Xtrem Sports
@@ -77,8 +73,6 @@ https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/lit
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8?channel_name=nitrotv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5e873901-4afc-4d5f-89c9-3260feb9f517/ab81de54ca779853b6aa74486378ab8b" group-title="" tvg-chno="255", LOL TV
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8?channel_name=loltv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/471e4fcb-1fea-4c11-b701-c5ae44c8235c/6dec98d75831ea765c840ba1938491b8" group-title="" tvg-chno="247", Drive+Speed
-https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8?channel_name=drive+speed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/e6e0c6e272aa3ce81eda4fea844e37db" group-title="" tvg-chno="254", Jupiter TV
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/6f01beb9-8426-4c7e-abb9-f1e10c392adc_0_HLS/manifest.m3u8?channel_name=jupitertv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/909cc939f49607699c03f9d843a3eec2" group-title="" tvg-chno="253", Horror TV

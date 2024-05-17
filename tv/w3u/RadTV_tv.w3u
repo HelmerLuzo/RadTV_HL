@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 17/05/2024 12:13",
+    "author": "Actualizada 18/05/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -165,16 +165,6 @@
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8?channel_name=encore+"
         },
         {
-            "name": "Escape TV",
-            "image": "https://static.12core.net/media/content/stream/a7c7ef97-ca44-48bb-9d88-cd479fb57409/2af6bdce8e43f629e161b4a1bc576268",
-            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8?channel_name=escapetv"
-        },
-        {
-            "name": "The Ring TV",
-            "image": "https://static.12core.net/media/content/stream/fd962718-1f71-4034-8464-f237f971dba0/6185d259129bc03f1e9e153822e38fc7",
-            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/c6ca60f4-7537-4e14-899a-edb5ad8a0fdc_0_HLS/manifest.m3u8?channel_name=theringtv"
-        },
-        {
             "name": "Tensions TV",
             "image": "https://static.12core.net/media/content/stream/acb64b90-476b-4edc-8a7c-5022332457b0/5669b7f47096fc53db27c728b9a52d03",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/48528c7b-a214-46c1-83aa-d30da98ed4d3_0_HLS/manifest.m3u8?channel_name=tensionstv"
@@ -198,11 +188,6 @@
             "name": "LOL TV",
             "image": "https://static.12core.net/media/content/stream/5e873901-4afc-4d5f-89c9-3260feb9f517/ab81de54ca779853b6aa74486378ab8b",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8?channel_name=loltv"
-        },
-        {
-            "name": "Drive+Speed",
-            "image": "https://static.12core.net/media/content/stream/471e4fcb-1fea-4c11-b701-c5ae44c8235c/6dec98d75831ea765c840ba1938491b8",
-            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8?channel_name=drive+speed"
         },
         {
             "name": "Jupiter TV",
