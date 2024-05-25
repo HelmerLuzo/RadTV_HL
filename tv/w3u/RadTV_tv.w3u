@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 25/05/2024 00:13",
+    "author": "Actualizada 25/05/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -56,7 +56,7 @@
         },
         {
             "name": "Billiard TV",
-            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png",
             "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
         },
         {
@@ -136,7 +136,7 @@
         },
         {
             "name": "AutoMotions TV",
-            "image": "https://static.12core.net/media/content/stream/49897a82-a928-44cd-aa88-e92a1e0bbaa4/722773752faf80388e435d01f5c77dc6",
+            "image": "https://static.12core.net/media/content/stream/49897a82-a928-44cd-aa88-e92a1e0bbaa4/9f0827b15c4bee1251ad40fe812e5333",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8?channel_name=automotions"
         },
         {
@@ -166,7 +166,7 @@
         },
         {
             "name": "Tensions TV",
-            "image": "https://static.12core.net/media/content/stream/acb64b90-476b-4edc-8a7c-5022332457b0/5669b7f47096fc53db27c728b9a52d03",
+            "image": "https://static.12core.net/media/content/stream/acb64b90-476b-4edc-8a7c-5022332457b0/9fff810cb5d0ad832ee916d1955a96a2",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/48528c7b-a214-46c1-83aa-d30da98ed4d3_0_HLS/manifest.m3u8?channel_name=tensionstv"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
             "name": "Nitro TV",
-            "image": "https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/043fd8421cc9e9358779dde1f8444860",
+            "image": "https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/7b5a07b876c53fd220619dd14e447646",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8?channel_name=nitrotv"
         },
         {
@@ -196,7 +196,7 @@
         },
         {
             "name": "Horror TV",
-            "image": "https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/909cc939f49607699c03f9d843a3eec2",
+            "image": "https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/bd95a406ab8dc6cdb214d673109debdc",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8?channel_name=horrortv"
         },
         {
@@ -231,7 +231,7 @@
         },
         {
             "name": "Inside the Game",
-            "image": "https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/087ad90de2fb3e9c5f4479bd1881b623",
+            "image": "https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/8e2a6d8f74e25fbbe83c82066c1c70ac",
             "url": "https://vcnitg.teleosmedia.com/linear/itg/insidethegame/c8e4b0f3-d8c8-4002-941d-eed2952d5cd8_1080p.m3u8"
         },
         {
