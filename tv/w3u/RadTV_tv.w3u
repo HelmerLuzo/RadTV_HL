@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 04/06/2024 00:13",
+    "author": "Actualizada 04/06/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -56,7 +56,7 @@
         },
         {
             "name": "Billiard TV",
-            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
             "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
         },
         {
@@ -96,7 +96,7 @@
         },
         {
             "name": "Cowboy Theater",
-            "image": "https://12core-tus-ingestion.s3.amazonaws.com/83c86c509ddad4721761216cc77f29a9",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/6e8ed27d51546c3e6d86b78e29d2ff5c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/OOG8CGSN4I4ES3JLO8X1/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Cowboy+Classics&ads.content_genre=Western%2CMovies&ads.content_series=Between+God%2C+The+Devil%2C+And+A+Winchester&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Global+Media&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGL101&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -116,12 +116,12 @@
         },
         {
             "name": "Revry Premium",
-            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/304b074ebee0ef1c59ea70cb45e16e34.jpg",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
             "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
         },
         {
             "name": "OmStars TV",
-            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/fbaa82af37a165dfcca001ab95defafc",
+            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7",
             "url": "https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8"
         },
         {
@@ -156,12 +156,12 @@
         },
         {
             "name": "The Drive In Movie Channel",
-            "image": "https://static.12core.net/media/content/stream/a5b970c6-8241-47f0-8026-b3dac437c073/f5a24d7bd81705cfc4775e9b26229dd1",
+            "image": "https://static.12core.net/media/content/stream/a5b970c6-8241-47f0-8026-b3dac437c073/ac26f70ff3ed4b19240ace6f5d96cf30",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/4a62c62d-f816-4416-95e8-82e1a657a48a_0_HLS/manifest.m3u8?channel_name=driveinmoviechannel"
         },
         {
             "name": "Encore+",
-            "image": "https://static.12core.net/media/content/stream/ea3bac6c-8dca-42d1-be02-12eea6bc7ca6/98ce3fb255199f14e8543f3a0d85ed19",
+            "image": "https://static.12core.net/media/content/stream/ea3bac6c-8dca-42d1-be02-12eea6bc7ca6/ae858fea44a33190a00878748e2dceaa",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8?channel_name=encore+"
         },
         {
@@ -171,7 +171,7 @@
         },
         {
             "name": "Xtrem Sports",
-            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/ee49cf6e5d1b9f46493f4d20306e5014",
+            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/5b60290448eae809dad70b2a59951be0",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8?channel_name=xtremsports"
         },
         {
@@ -201,7 +201,7 @@
         },
         {
             "name": "Heritage+",
-            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e848550a622b8d2651924b54ba829144",
+            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e8af698da12cf0c8f033d0bbe02054cf",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar5_sofast/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/manifest.m3u8?channel_name=heritage+"
         },
         {
@@ -211,7 +211,7 @@
         },
         {
             "name": "Fight TV",
-            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/57043b984df0d161d32cffc1663bc515",
+            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
         },
         {
