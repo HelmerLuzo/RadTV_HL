@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 22/06/2024 00:13",
+    "author": "Actualizada 22/06/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -46,7 +46,7 @@
         },
         {
             "name": "NHRA TV",
-            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg",
+            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/260d8ea23474e147e8263785b6dfeb03.png",
             "url": "https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar"
         },
         {
@@ -56,7 +56,7 @@
         },
         {
             "name": "Billiard TV",
-            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png",
             "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
         },
         {
@@ -136,7 +136,7 @@
         },
         {
             "name": "AutoMotions TV",
-            "image": "https://static.12core.net/media/content/stream/49897a82-a928-44cd-aa88-e92a1e0bbaa4/722773752faf80388e435d01f5c77dc6",
+            "image": "https://static.12core.net/media/content/stream/49897a82-a928-44cd-aa88-e92a1e0bbaa4/9131a7819941bccf60d6e2349b0e3ca7",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8?channel_name=automotions"
         },
         {
@@ -171,7 +171,7 @@
         },
         {
             "name": "Xtrem Sports",
-            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/5b60290448eae809dad70b2a59951be0",
+            "image": "https://static.12core.net/media/content/stream/a435eeb0-55b9-4cf0-8060-768251172342/ee49cf6e5d1b9f46493f4d20306e5014",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8?channel_name=xtremsports"
         },
         {
@@ -216,7 +216,7 @@
         },
         {
             "name": "The Explorers",
-            "image": "https://static.12core.net/media/content/stream/7b549f26-eb5d-4c97-86a9-05d4c1c9d9d8/81a3ccf5c9988c1be2070ba2b76ad26c",
+            "image": "https://static.12core.net/media/content/stream/7b549f26-eb5d-4c97-86a9-05d4c1c9d9d8/1f7e1851fc3e96409b290e847955afd8",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/25ecf842-26ef-4376-9548-a08071f30ca7_0_HLS/manifest.m3u8?channel_name=theexplorers"
         },
         {
