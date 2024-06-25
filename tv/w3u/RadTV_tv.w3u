@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 25/06/2024 00:13",
+    "author": "Actualizada 26/06/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -98,11 +98,6 @@
             "name": "Cowboy Theater",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/6e8ed27d51546c3e6d86b78e29d2ff5c",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/OOG8CGSN4I4ES3JLO8X1/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=Cowboy+Classics&ads.content_genre=Western%2CMovies&ads.content_series=Between+God%2C+The+Devil%2C+And+A+Winchester&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Global+Media&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=SGL101&ads.w=1920&coppa=0&is_lat=0&livestream=1"
-        },
-        {
-            "name": "Deluxe Lounge HD",
-            "image": "https://static.12core.net/media/content/stream/add3078a-b342-41c8-ac69-dbfe255dbc35/4a8bb0fa467bdcf2c7079d746d7c1e02",
-            "url": "https://api-ott.highview.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=742&partner=littlstar"
         },
         {
             "name": "FITE 24/7",
