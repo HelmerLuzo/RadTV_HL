@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 29/07/2024 00:13",
+    "author": "Actualizada 29/07/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -11,7 +11,7 @@
         },
         {
             "name": "Altrd.tv",
-            "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/e0f620098a33f22c7c89573b41d1cf36",
+            "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/0afe1a62c827eb307dd197fa18c7b552",
             "url": "https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar"
         },
         {
@@ -56,7 +56,7 @@
         },
         {
             "name": "Billiard TV",
-            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
             "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
         },
         {
@@ -71,7 +71,7 @@
         },
         {
             "name": "Poker Night in America",
-            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/4b7b9bb949fadffe0ada826d4933eaf6.png",
+            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png",
             "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324"
         },
         {
@@ -111,7 +111,7 @@
         },
         {
             "name": "Revry Premium",
-            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/304b074ebee0ef1c59ea70cb45e16e34.jpg",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
             "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
         },
         {
@@ -121,7 +121,7 @@
         },
         {
             "name": "ASAP Network",
-            "image": "https://static.12core.net/media/content/stream/6c8e3dcb-6769-4b92-b489-29ee88d7992d/afb32a5649b5f3f9f6be64da24346ed6",
+            "image": "https://static.12core.net/media/content/stream/6c8e3dcb-6769-4b92-b489-29ee88d7992d/9bd815994ada857eb1d01ef8b4817c52",
             "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/HZ4P32BEC3O86E49W6TY/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=UP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.app_name=Rad+TV&ads.app_store_url=https%3A%2F%2Fstore.playstation.com%2Fen-us%2Fproduct%2FUP8821-CUSA06120_00-LITT1ST4RTHEG0AT&ads.cb=&ads.channel_name=ASAP+Network&ads.content_genre=Sports&ads.content_series=asap+in+the+morning+_+friday%2C+october+7th%2C+2022&ads.did=&ads.gdpr=0&ads.gdpr_consent=&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=https%3A%2F%2Frad.live%2Fads.txt&ads.us_privacy=1---&ads.vast_id=STA100&ads.w=1920&coppa=0&is_lat=0&livestream=1"
         },
         {
@@ -156,7 +156,7 @@
         },
         {
             "name": "Encore+",
-            "image": "https://static.12core.net/media/content/stream/ea3bac6c-8dca-42d1-be02-12eea6bc7ca6/98ce3fb255199f14e8543f3a0d85ed19",
+            "image": "https://static.12core.net/media/content/stream/ea3bac6c-8dca-42d1-be02-12eea6bc7ca6/ae858fea44a33190a00878748e2dceaa",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8?channel_name=encore+"
         },
         {
@@ -176,7 +176,7 @@
         },
         {
             "name": "Nitro TV",
-            "image": "https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/a54190e99d7d8840f4f4b75637981c1a",
+            "image": "https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/043fd8421cc9e9358779dde1f8444860",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8?channel_name=nitrotv"
         },
         {
@@ -186,22 +186,22 @@
         },
         {
             "name": "Jupiter TV",
-            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/10edfcf5b7904e51f1f0698b6d35b4c3",
+            "image": "https://static.12core.net/media/content/stream/8feca36d-32ae-41ef-98da-0376f546126e/e6e0c6e272aa3ce81eda4fea844e37db",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/6f01beb9-8426-4c7e-abb9-f1e10c392adc_0_HLS/manifest.m3u8?channel_name=jupitertv"
         },
         {
             "name": "Horror TV",
-            "image": "https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/0e93a528999564ed75aede0438e4b591",
+            "image": "https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/909cc939f49607699c03f9d843a3eec2",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8?channel_name=horrortv"
         },
         {
             "name": "Heritage+",
-            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e848550a622b8d2651924b54ba829144",
+            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e8af698da12cf0c8f033d0bbe02054cf",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar5_sofast/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/manifest.m3u8?channel_name=heritage+"
         },
         {
             "name": "Heritage Tourism TV",
-            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/8ffc07f65da344be7cb01c791dee593c",
+            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv"
         },
         {
@@ -211,7 +211,7 @@
         },
         {
             "name": "The Explorers",
-            "image": "https://static.12core.net/media/content/stream/7b549f26-eb5d-4c97-86a9-05d4c1c9d9d8/1f7e1851fc3e96409b290e847955afd8",
+            "image": "https://static.12core.net/media/content/stream/7b549f26-eb5d-4c97-86a9-05d4c1c9d9d8/81a3ccf5c9988c1be2070ba2b76ad26c",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/25ecf842-26ef-4376-9548-a08071f30ca7_0_HLS/manifest.m3u8?channel_name=theexplorers"
         },
         {
