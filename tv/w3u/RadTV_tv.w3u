@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 06/08/2024 12:13",
+    "author": "Actualizada 07/08/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -241,7 +241,7 @@
         },
         {
             "name": "Ainfinite.TV",
-            "image": "https://static.12core.net/df42467106d1142959742267e7ef1f3e",
+            "image": "https://static.12core.net/media/content/stream/175f733c-5667-40e1-a4c7-77a36a0c72db/aee116b36f5dc52bb483b80300cbc958",
             "url": "https://814bffb9b389f652.mediapackage.ap-southeast-2.amazonaws.com/out/v1/5c87e04943304dfc9154a01ac15b5994/index.m3u8"
         }
     ]
