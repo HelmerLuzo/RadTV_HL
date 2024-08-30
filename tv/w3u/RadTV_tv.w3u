@@ -1,23 +1,13 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 30/08/2024 00:13",
+    "author": "Actualizada 30/08/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
         {
-            "name": "GoTraveler",
-            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
-            "url": "https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
-        },
-        {
             "name": "Altrd.tv",
             "image": "https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/0afe1a62c827eb307dd197fa18c7b552",
             "url": "https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar"
-        },
-        {
-            "name": "World Poker Tour",
-            "image": "https://static.12core.net/56cc90c33c25b81ecb101512f76b655a.jpeg",
-            "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-LittleStar/161.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=wpt&ads.channel_name=wpt&ads.country=US&ads.app_bundle=com.rad.wpt&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324"
         },
         {
             "name": "SKWAD",
@@ -28,11 +18,6 @@
             "name": "Law & Crime Trial",
             "image": "https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba",
             "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
-        },
-        {
-            "name": "The Country Network",
-            "image": "https://static.12core.net/bf49c43ee211c091e1ba1dae7eea4abd.jpeg",
-            "url": "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-TCNV2/index.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=tcn&ads.channel_name=tcn&ads.country=US&ads.app_bundle=com.rad.tcn&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324"
         },
         {
             "name": "Motorvision",
@@ -50,16 +35,6 @@
             "url": "https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar"
         },
         {
-            "name": "SportsGrid Network",
-            "image": "https://static.12core.net/media/content/stream/1030b1a6-3f38-450d-9b79-212eca72d926/0ca06e75b34f7fdfd9d0da5024af844c.png",
-            "url": "https://sportsgrid-radlive.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-radlive/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D"
-        },
-        {
-            "name": "Billiard TV",
-            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
-            "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
-        },
-        {
             "name": "Fido TV",
             "image": "https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png",
             "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8"
@@ -68,11 +43,6 @@
             "name": "Lacrosse Sports Network",
             "image": "https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png",
             "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
-        },
-        {
-            "name": "Poker Night in America",
-            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png",
-            "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324"
         },
         {
             "name": "Volty TV",
@@ -205,9 +175,9 @@
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv"
         },
         {
-            "name": "Fight TV",
-            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
-            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
+            "name": "Best Thriller TV",
+            "image": "https://static.12core.net/media/content/stream/498c19f9-001a-42e0-90a5-c68971180185/bc53f5127323e9471b8a90d354389244",
+            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8?channel_name=bestthrillertv"
         },
         {
             "name": "The Explorers",
@@ -215,9 +185,14 @@
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/25ecf842-26ef-4376-9548-a08071f30ca7_0_HLS/manifest.m3u8?channel_name=theexplorers"
         },
         {
-            "name": "Best Thriller TV",
-            "image": "https://static.12core.net/media/content/stream/498c19f9-001a-42e0-90a5-c68971180185/bc53f5127323e9471b8a90d354389244",
-            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8?channel_name=bestthrillertv"
+            "name": "Fight TV",
+            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
+            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
+        },
+        {
+            "name": "Billiard TV",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
+            "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
         },
         {
             "name": "Best Action TV",
@@ -225,14 +200,24 @@
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8?channel_name=bestactiontv"
         },
         {
+            "name": "GoTraveler",
+            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
+            "url": "https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
+        },
+        {
+            "name": "Poker Night in America",
+            "image": "https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png",
+            "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-RAD/216.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=pokernightinamerica&ads.channel_name=pokernightinamerica&ads.country=US&ads.app_bundle=com.rad.pokernightinamerica&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!hange2.com,abcd,1,,,&ads.ic=324"
+        },
+        {
+            "name": "The Country Network",
+            "image": "https://static.12core.net/bf49c43ee211c091e1ba1dae7eea4abd.jpeg",
+            "url": "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-TCNV2/index.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=tcn&ads.channel_name=tcn&ads.country=US&ads.app_bundle=com.rad.tcn&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324"
+        },
+        {
             "name": "Inside the Game",
             "image": "https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/087ad90de2fb3e9c5f4479bd1881b623",
             "url": "https://vcnitg.teleosmedia.com/linear/itg/insidethegame/c8e4b0f3-d8c8-4002-941d-eed2952d5cd8_1080p.m3u8"
-        },
-        {
-            "name": "Law & Crime Trial",
-            "image": "https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba",
-            "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
         },
         {
             "name": "Law & Crime Rewind",
@@ -240,9 +225,24 @@
             "url": "https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8"
         },
         {
+            "name": "Law & Crime Trial",
+            "image": "https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba",
+            "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
+        },
+        {
+            "name": "World Poker Tour",
+            "image": "https://static.12core.net/56cc90c33c25b81ecb101512f76b655a.jpeg",
+            "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-LittleStar/161.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=wpt&ads.channel_name=wpt&ads.country=US&ads.app_bundle=com.rad.wpt&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324"
+        },
+        {
             "name": "Ainfinite.TV",
             "image": "https://static.12core.net/media/content/stream/175f733c-5667-40e1-a4c7-77a36a0c72db/aee116b36f5dc52bb483b80300cbc958",
             "url": "https://814bffb9b389f652.mediapackage.ap-southeast-2.amazonaws.com/out/v1/5c87e04943304dfc9154a01ac15b5994/index.m3u8"
+        },
+        {
+            "name": "SportsGrid Network",
+            "image": "https://static.12core.net/media/content/stream/1030b1a6-3f38-450d-9b79-212eca72d926/0ca06e75b34f7fdfd9d0da5024af844c.png",
+            "url": "https://sportsgrid-radlive.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-radlive/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D"
         }
     ]
 }
