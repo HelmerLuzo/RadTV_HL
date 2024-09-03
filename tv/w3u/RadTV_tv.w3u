@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 03/09/2024 00:13",
+    "author": "Actualizada 03/09/2024 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -13,6 +13,11 @@
             "name": "SKWAD",
             "image": "https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png",
             "url": "https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar"
+        },
+        {
+            "name": "Law & Crime Trial",
+            "image": "https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba",
+            "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
         },
         {
             "name": "Motorvision",
@@ -76,7 +81,7 @@
         },
         {
             "name": "Revry Premium",
-            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/304b074ebee0ef1c59ea70cb45e16e34.jpg",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
             "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
         },
         {
@@ -111,12 +116,12 @@
         },
         {
             "name": "Danger Vision TV",
-            "image": "https://static.12core.net/media/content/stream/5b16085c-fa0d-4b6d-86be-79781232ca42/365a0e2b0595be197dc62242dfef5404",
+            "image": "https://static.12core.net/media/content/stream/5b16085c-fa0d-4b6d-86be-79781232ca42/4ffcaabbb36cce8daf3a64316fc4716f",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8?channel_name=dangervisiontv"
         },
         {
             "name": "The Drive In Movie Channel",
-            "image": "https://static.12core.net/media/content/stream/a5b970c6-8241-47f0-8026-b3dac437c073/f5a24d7bd81705cfc4775e9b26229dd1",
+            "image": "https://static.12core.net/media/content/stream/a5b970c6-8241-47f0-8026-b3dac437c073/ac26f70ff3ed4b19240ace6f5d96cf30",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/4a62c62d-f816-4416-95e8-82e1a657a48a_0_HLS/manifest.m3u8?channel_name=driveinmoviechannel"
         },
         {
@@ -141,7 +146,7 @@
         },
         {
             "name": "Nitro TV",
-            "image": "https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/a54190e99d7d8840f4f4b75637981c1a",
+            "image": "https://static.12core.net/media/content/stream/74630a28-0744-4bc2-8253-a166e517a9d9/043fd8421cc9e9358779dde1f8444860",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8?channel_name=nitrotv"
         },
         {
@@ -166,7 +171,7 @@
         },
         {
             "name": "Heritage Tourism TV",
-            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/8ffc07f65da344be7cb01c791dee593c",
+            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv"
         },
         {
@@ -176,12 +181,12 @@
         },
         {
             "name": "The Explorers",
-            "image": "https://static.12core.net/media/content/stream/7b549f26-eb5d-4c97-86a9-05d4c1c9d9d8/1f7e1851fc3e96409b290e847955afd8",
+            "image": "https://static.12core.net/media/content/stream/7b549f26-eb5d-4c97-86a9-05d4c1c9d9d8/81a3ccf5c9988c1be2070ba2b76ad26c",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar4_sofast/25ecf842-26ef-4376-9548-a08071f30ca7_0_HLS/manifest.m3u8?channel_name=theexplorers"
         },
         {
             "name": "Fight TV",
-            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/57043b984df0d161d32cffc1663bc515",
+            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
         },
         {
@@ -196,7 +201,7 @@
         },
         {
             "name": "GoTraveler",
-            "image": "https://static.12core.net/ea526280bad2654465a9b17dfed469ed.png",
+            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
             "url": "https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
         },
         {
@@ -208,6 +213,21 @@
             "name": "The Country Network",
             "image": "https://static.12core.net/bf49c43ee211c091e1ba1dae7eea4abd.jpeg",
             "url": "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-TCNV2/index.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=tcn&ads.channel_name=tcn&ads.country=US&ads.app_bundle=com.rad.tcn&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324"
+        },
+        {
+            "name": "Inside the Game",
+            "image": "https://static.12core.net/media/content/stream/cb688bd8-f6e6-453a-969f-5e0533891b51/087ad90de2fb3e9c5f4479bd1881b623",
+            "url": "https://vcnitg.teleosmedia.com/linear/itg/insidethegame/c8e4b0f3-d8c8-4002-941d-eed2952d5cd8_1080p.m3u8"
+        },
+        {
+            "name": "Law & Crime Rewind",
+            "image": "https://static.12core.net/media/content/stream/b17744f9-8644-4cdd-a7bc-1e70a597d360/f8d74a948d7fe918d072349d99d2d4b6",
+            "url": "https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8"
+        },
+        {
+            "name": "Law & Crime Trial",
+            "image": "https://static.12core.net/media/content/stream/e5d2b0a3-8ab0-4b01-a1e4-b00a5611dec3/4f472af7ed759cd9ea8d3f2ab10643ba",
+            "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
         },
         {
             "name": "World Poker Tour",
