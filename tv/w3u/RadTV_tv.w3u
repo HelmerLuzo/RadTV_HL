@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 12/09/2024 12:13",
+    "author": "Actualizada 13/09/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -233,11 +233,6 @@
             "name": "World Poker Tour",
             "image": "https://static.12core.net/56cc90c33c25b81ecb101512f76b655a.jpeg",
             "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-LittleStar/161.m3u8?ads.app_name=rad&ads.content_id=TBD&ads.content_title=wpt&ads.channel_name=wpt&ads.country=US&ads.app_bundle=com.rad.wpt&ads.app_store_url=https://play.google.com/store/apps/details?id=com.littlstar.android&ads.us_privacy=1N-N&ads.schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,&ads.ic=324"
-        },
-        {
-            "name": "Ainfinite.TV",
-            "image": "https://static.12core.net/media/content/stream/175f733c-5667-40e1-a4c7-77a36a0c72db/aee116b36f5dc52bb483b80300cbc958",
-            "url": "https://814bffb9b389f652.mediapackage.ap-southeast-2.amazonaws.com/out/v1/5c87e04943304dfc9154a01ac15b5994/index.m3u8"
         },
         {
             "name": "SportsGrid Network",
