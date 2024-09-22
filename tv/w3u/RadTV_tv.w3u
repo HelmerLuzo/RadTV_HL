@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 22/09/2024 12:13",
+    "author": "Actualizada 23/09/2024 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -106,7 +106,7 @@
         },
         {
             "name": "Bang Bang TV",
-            "image": "https://static.12core.net/media/content/stream/7e624537-e550-483d-adb9-8b27c9e85977/9d17daf043aaadb480e2d2c1f60320ce",
+            "image": "https://static.12core.net/media/content/stream/7e624537-e550-483d-adb9-8b27c9e85977/48f82477b5d47fd1836fcf05a6c7cc80",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/fd7c895e-aa96-4298-ad6d-2be4936f5347_0_HLS/manifest.m3u8?channel_name=bangbangtv"
         },
         {
@@ -161,7 +161,7 @@
         },
         {
             "name": "Horror TV",
-            "image": "https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/bd95a406ab8dc6cdb214d673109debdc",
+            "image": "https://static.12core.net/media/content/stream/1300f59f-888a-41f1-9a28-b80255ed41ed/909cc939f49607699c03f9d843a3eec2",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8?channel_name=horrortv"
         },
         {
@@ -191,7 +191,7 @@
         },
         {
             "name": "Billiard TV",
-            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
             "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
         },
         {
@@ -201,7 +201,7 @@
         },
         {
             "name": "GoTraveler",
-            "image": "https://static.12core.net/ea526280bad2654465a9b17dfed469ed.png",
+            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
             "url": "https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
         },
         {
