@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 22/01/2026 18:10",
+    "author": "Actualizada 26/01/2026 12:52",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -28,6 +28,11 @@
             "name": "OmStars TV",
             "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7",
             "url": "https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8"
+        },
+        {
+            "name": "High School Crimes & Misdemeanors",
+            "image": "https://12core-tus-ingestion.s3.amazonaws.com/08a858a76c403772a6f3c224f6a78284",
+            "url": "https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/Rad_Harrison/output.m3u8"
         },
         {
             "name": "Mediacorp International",
