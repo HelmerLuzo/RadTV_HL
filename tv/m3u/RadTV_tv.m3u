@@ -87,8 +87,6 @@ https://amg01243-amg01243c35-littlestar-us-9163.playouts.now.amagi.tv/playlist/a
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png" group-title="Lifestyle & Fashion", GoTraveler
 https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/26898469-bb31-4ac5-b810-3a7fd4e94a69/1a60268e0faa299e3a8279dbaccfe380" group-title="Health & Fitness", Rad TV Presents: Movie Night
-https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/RadMovieNight/output.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/effed613-a0e9-45e7-b64b-a03dbe3fc61b/114db2efe55d99de26e79e0bf0dabd1a" group-title="Kids", Mediacorp Okto on International
 https://app.viloud.tv/hls/channel/d6d0f1619365a2113fd862229543cd31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e491f173-3d29-45be-860f-a0d45b34e428/68a5bddcd020c0449a8922a239e54266" group-title="Entertainment", Channel Fight Masterclass
