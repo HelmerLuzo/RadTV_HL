@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/946c2426-1223-4ea7-8d20-faf9a34ec390/2a5111d4b3ed99a779416b8c7b95307d" group-title="TV", iNews
 https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png" group-title="Sports", Billiard TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/0ba6eaed65ec0d772b859451eae19cec.png" group-title="Sports", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png" group-title="Drama", Revry Premium
 https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/75c6f0b8faf8c973d56a675517e39086.png" group-title="Entertainment", Popstar! TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/c8ee639db81c764e08e5c6b44d737c2b.jpg" group-title="Entertainment", Popstar! TV
 https://linear-10.frequency.stream/dist/rad/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7" group-title="Health & Fitness", OmStars TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/fbaa82af37a165dfcca001ab95defafc" group-title="Health & Fitness", OmStars TV
 https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/72d40351428f8899690f21e074c0deb3" group-title="TV", Mediacorp International
 https://cdnvideo.webvideocore.net/enc4_tcd509apumud03tbitmrsudv8m721slv70jg8pnf9gaf1gdkc6ga0ol9n945it4riudku1mitjq070f7qob5mhevbnud6gmns2jid7uor9ktk8e8ncn8uij0e7p5jh6ae/index.m3u8
@@ -33,7 +33,7 @@ https://amg01243-amg01243c10-littlestar-us-8643.playouts.now.amagi.tv/playlist/a
 https://amg01243-amg01243c9-littlestar-us-8825.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitejustchill-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/01a5923cbbbb4f9011be561c1ad013d9" group-title="Education", XITE REGGAE VIBES
 https://amg01243-amg01243c26-littlestar-us-8830.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitereggaevibes-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f" group-title="History", Heritage Tourism TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/8ffc07f65da344be7cb01c791dee593c" group-title="History", Heritage Tourism TV
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/45545aff-0d47-44fc-9894-1d329b731adf/700b8fba246fbd11d56143e56eb9de60.jpg" group-title="TV", OAN Plus
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=918&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB11-5&content_channel=OAN%20Plus&content_genre=news&content_language=en&content_network=OAN%20Plus&content_prodqual=1&content_producer=OAN&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]
@@ -77,7 +77,7 @@ https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8
 https://amg01243-amg01243c6-littlestar-us-8824.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiternbclassicjams-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/4fe8133b16cdf488e1baf642e34956d9" group-title="Entertainment", XITE 90S THROWBACK
 https://amg01243-amg01243c3-littlestar-us-8756.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite90sthrowback-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png" group-title="Entertainment", Fido TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/0b0228b05a117d06d90966207e7d1e26.png" group-title="Entertainment", Fido TV
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/fff2a7c1f63f6d631fd6f4255b316dc3" group-title="Entertainment", XITE COUNTRY TODAY
 https://amg01243-amg01243c4-littlestar-us-8722.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitecountrytoday-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
@@ -85,7 +85,7 @@ https://amg01243-amg01243c4-littlestar-us-8722.playouts.now.amagi.tv/playlist/am
 https://amg01243-amg01243c35-littlestar-us-9163.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitegospel-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="Sports", NHRA TV
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png" group-title="Lifestyle & Fashion", GoTraveler
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/ea526280bad2654465a9b17dfed469ed.png" group-title="Lifestyle & Fashion", GoTraveler
 https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/effed613-a0e9-45e7-b64b-a03dbe3fc61b/114db2efe55d99de26e79e0bf0dabd1a" group-title="Kids", Mediacorp Okto on International
 https://app.viloud.tv/hls/channel/d6d0f1619365a2113fd862229543cd31.m3u8
