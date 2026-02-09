@@ -55,7 +55,7 @@ https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1
 https://amg01243-amg01243c2-littlestar-us-8752.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite80sflashback-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/12927247-78e1-4d63-9567-52556466832b/25016317b46c05f0257a2439434ab612" group-title="Entertainment", Momma’s Lemonade TV
 https://app.viloud.tv/hls/channel/a417ffa3f7365ca2cf0011520aabae6b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png" group-title="Gaming", SKWAD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1a2aea13abf03ef3066b330a5b805515.png" group-title="Gaming", SKWAD
 https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/a32fe8f5468244c15f5788d047af9ca4" group-title="Entertainment", XITE SIEMPRE LATINO
 https://amg01243-amg01243c14-littlestar-us-8808.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitesiemprelatino-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}

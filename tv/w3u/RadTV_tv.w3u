@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 09/02/2026 00:13",
+    "author": "Actualizada 09/02/2026 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -146,7 +146,7 @@
         },
         {
             "name": "SKWAD",
-            "image": "https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png",
+            "image": "https://static.12core.net/1a2aea13abf03ef3066b330a5b805515.png",
             "url": "https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar"
         },
         {
