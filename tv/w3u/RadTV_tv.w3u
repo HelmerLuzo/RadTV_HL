@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 12/02/2026 00:13",
+    "author": "Actualizada 12/02/2026 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -26,7 +26,7 @@
         },
         {
             "name": "OmStars TV",
-            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7",
+            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/fbaa82af37a165dfcca001ab95defafc",
             "url": "https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8"
         },
         {
@@ -131,7 +131,7 @@
         },
         {
             "name": "Motorvision",
-            "image": "https://static.12core.net/media/content/stream/df565999-cc18-4699-b3a2-deb357a0d0cb/a398edec9a0876afd456515071a9bd4b",
+            "image": "https://static.12core.net/media/content/stream/df565999-cc18-4699-b3a2-deb357a0d0cb/5d5aae90dd4c85ecd74aad10c79dea68",
             "url": "https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=littlstar"
         },
         {
