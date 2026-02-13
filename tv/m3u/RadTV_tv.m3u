@@ -5,9 +5,9 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png" group-title="Drama", Revry Premium
 https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/75c6f0b8faf8c973d56a675517e39086.png" group-title="Entertainment", Popstar! TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/c8ee639db81c764e08e5c6b44d737c2b.jpg" group-title="Entertainment", Popstar! TV
 https://linear-10.frequency.stream/dist/rad/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/fbaa82af37a165dfcca001ab95defafc" group-title="Health & Fitness", OmStars TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7" group-title="Health & Fitness", OmStars TV
 https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/72d40351428f8899690f21e074c0deb3" group-title="TV", Mediacorp International
 https://cdnvideo.webvideocore.net/enc4_tcd509apumud03tbitmrsudv8m721slv70jg8pnf9gaf1gdkc6ga0ol9n945it4riudku1mitjq070f7qob5mhevbnud6gmns2jid7uor9ktk8e8ncn8uij0e7p5jh6ae/index.m3u8
@@ -49,7 +49,7 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 https://amg01243-amg01243c8-littlestar-us-8829.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterapgame-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ae16aba4-69a9-4681-bb38-0cb43a4a193f/82c99e1cf72c58f7b7d0498865b4836e" group-title="Sports", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-RAD/263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/df565999-cc18-4699-b3a2-deb357a0d0cb/5d5aae90dd4c85ecd74aad10c79dea68" group-title="Entertainment", Motorvision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/df565999-cc18-4699-b3a2-deb357a0d0cb/a398edec9a0876afd456515071a9bd4b" group-title="Entertainment", Motorvision
 https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7a2b5ba4efe166b39b4127f5cdb79fe8" group-title="Entertainment", XITE 80S FLASHBACK
 https://amg01243-amg01243c2-littlestar-us-8752.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite80sflashback-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
@@ -83,7 +83,7 @@ https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 https://amg01243-amg01243c4-littlestar-us-8722.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitecountrytoday-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b747098c70bc0f7606e3fd9bff0a32ad" group-title="Entertainment", XITE GOSPEL
 https://amg01243-amg01243c35-littlestar-us-9163.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitegospel-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/260d8ea23474e147e8263785b6dfeb03.png" group-title="Sports", NHRA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="Sports", NHRA TV
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png" group-title="Lifestyle & Fashion", GoTraveler
 https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME
