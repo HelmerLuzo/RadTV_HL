@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 23/02/2026 00:13",
+    "author": "Actualizada 23/02/2026 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -156,7 +156,7 @@
         },
         {
             "name": "Heritage+",
-            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e848550a622b8d2651924b54ba829144",
+            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e8af698da12cf0c8f033d0bbe02054cf",
             "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar5_sofast/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/manifest.m3u8?channel_name=heritage+"
         },
         {
