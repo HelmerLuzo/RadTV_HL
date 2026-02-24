@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 24/02/2026 00:13",
+    "author": "Actualizada 24/02/2026 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -116,13 +116,18 @@
         },
         {
             "name": "Lacrosse Sports Network",
-            "image": "https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/1a9964e07296388196fd389d4658f225.jpg",
+            "image": "https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png",
             "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
         },
         {
             "name": "XITE RAP GAME",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/17a0c92dbadc95fd6b9c52274f12ac95",
             "url": "https://amg01243-amg01243c8-littlestar-us-8829.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterapgame-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
+        },
+        {
+            "name": "streamforce 360",
+            "image": "https://static.12core.net/media/content/stream/0f1bc982-1d05-48a0-a137-91bed5df519d/45289767c76d8d564eb8f6bdd1a267de",
+            "url": "https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8"
         },
         {
             "name": "FITE 24/7",
