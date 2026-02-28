@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 28/02/2026 00:13",
+    "author": "Actualizada 28/02/2026 12:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -10,9 +10,24 @@
             "url": "https://allcutv.rctiplus.id/inews2023.m3u8"
         },
         {
+            "name": "Billiard TV",
+            "image": "https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png",
+            "url": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8"
+        },
+        {
+            "name": "Revry Premium",
+            "image": "https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png",
+            "url": "https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8"
+        },
+        {
             "name": "Popstar! TV",
             "image": "https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/75c6f0b8faf8c973d56a675517e39086.png",
             "url": "https://linear-10.frequency.stream/dist/rad/10/hls/master/playlist.m3u8"
+        },
+        {
+            "name": "OmStars TV",
+            "image": "https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7",
+            "url": "https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8"
         },
         {
             "name": "Mediacorp International",
@@ -75,6 +90,16 @@
             "url": "https://amg01243-amg01243c26-littlestar-us-8830.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitereggaevibes-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
         },
         {
+            "name": "Heritage Tourism TV",
+            "image": "https://static.12core.net/media/content/stream/a73183df-c736-4bdb-9de7-b6205ddeaf40/00bb9b2233491295d3ff270e62ebf30f",
+            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8?channel_name=heritagetourismtv"
+        },
+        {
+            "name": "OAN Plus",
+            "image": "https://static.12core.net/media/content/stream/45545aff-0d47-44fc-9894-1d329b731adf/700b8fba246fbd11d56143e56eb9de60.jpg",
+            "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=918&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB11-5&content_channel=OAN%20Plus&content_genre=news&content_language=en&content_network=OAN%20Plus&content_prodqual=1&content_producer=OAN&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]"
+        },
+        {
             "name": "AfrolandTV",
             "image": "https://static.12core.net/media/content/stream/46cbd31e-9eae-48c4-bf91-dec4f144b793/2a9beaa069738bb18a35367f3b9f1935.jpg",
             "url": "https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=littlstar"
@@ -90,6 +115,11 @@
             "url": "https://www.youtube.com/watch?v=_Z7LM8TJ66Y"
         },
         {
+            "name": "Lacrosse Sports Network",
+            "image": "https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png",
+            "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+        },
+        {
             "name": "XITE RAP GAME",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/17a0c92dbadc95fd6b9c52274f12ac95",
             "url": "https://amg01243-amg01243c8-littlestar-us-8829.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterapgame-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
@@ -98,6 +128,16 @@
             "name": "streamforce 360",
             "image": "https://static.12core.net/media/content/stream/0f1bc982-1d05-48a0-a137-91bed5df519d/45289767c76d8d564eb8f6bdd1a267de",
             "url": "https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8"
+        },
+        {
+            "name": "FITE 24/7",
+            "image": "https://static.12core.net/media/content/stream/ae16aba4-69a9-4681-bb38-0cb43a4a193f/82c99e1cf72c58f7b7d0498865b4836e",
+            "url": "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-RAD/263.m3u8"
+        },
+        {
+            "name": "Motorvision",
+            "image": "https://static.12core.net/media/content/stream/df565999-cc18-4699-b3a2-deb357a0d0cb/a398edec9a0876afd456515071a9bd4b",
+            "url": "https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=littlstar"
         },
         {
             "name": "XITE 80S FLASHBACK",
@@ -110,14 +150,34 @@
             "url": "https://app.viloud.tv/hls/channel/a417ffa3f7365ca2cf0011520aabae6b.m3u8"
         },
         {
+            "name": "SKWAD",
+            "image": "https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png",
+            "url": "https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar"
+        },
+        {
             "name": "XITE SIEMPRE LATINO",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/a32fe8f5468244c15f5788d047af9ca4",
             "url": "https://amg01243-amg01243c14-littlestar-us-8808.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitesiemprelatino-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
         },
         {
+            "name": "Heritage+",
+            "image": "https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e8af698da12cf0c8f033d0bbe02054cf",
+            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar5_sofast/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/manifest.m3u8?channel_name=heritage+"
+        },
+        {
             "name": "GTV",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/5a7d281f90f3e1814e14ea48df7b43e0",
             "url": "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8"
+        },
+        {
+            "name": "Extreme+",
+            "image": "https://static.12core.net/media/content/stream/4c311b30-bf83-46e4-9ade-75f8ead727f3/3a888450f2a7a6908b4897dca476fbdc",
+            "url": "https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-RAD/276.m3u8"
+        },
+        {
+            "name": "Fight TV",
+            "image": "https://static.12core.net/media/content/stream/87e122dd-e1a0-4ae9-8e24-09c613b6b58c/af463b7f7e857518a7c176347c744378",
+            "url": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/littlestar3_sofast/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8?channel_name=fighttv"
         },
         {
             "name": "XITE 60S 70S GROOVE",
@@ -130,6 +190,11 @@
             "url": "https://amg01243-amg01243c25-littlestar-us-8831.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitechristianhits-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
         },
         {
+            "name": "Revry QueerTV 24/7",
+            "image": "https://static.12core.net/media/content/stream/5df925d2-57ba-4183-82c9-c0a7b3c6375c/06007ef7c10ca8e6bbf4422859da17ca.jpg",
+            "url": "https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8"
+        },
+        {
             "name": "XITE R&B CLASSIC JAMS",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/8356592aa0e3fe47e40cd66ea09320c5",
             "url": "https://amg01243-amg01243c6-littlestar-us-8824.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiternbclassicjams-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
@@ -138,6 +203,11 @@
             "name": "XITE 90S THROWBACK",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/4fe8133b16cdf488e1baf642e34956d9",
             "url": "https://amg01243-amg01243c3-littlestar-us-8756.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite90sthrowback-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
+        },
+        {
+            "name": "Fido TV",
+            "image": "https://static.12core.net/media/content/stream/6d330069-bc8c-4c27-85d4-406431ef2fb5/62c509b9eb8fd8b291855b8ecbb8c16d.png",
+            "url": "https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8"
         },
         {
             "name": "XITE COUNTRY TODAY",
@@ -150,6 +220,16 @@
             "url": "https://amg01243-amg01243c35-littlestar-us-9163.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitegospel-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
         },
         {
+            "name": "NHRA TV",
+            "image": "https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg",
+            "url": "https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar"
+        },
+        {
+            "name": "GoTraveler",
+            "image": "https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png",
+            "url": "https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME"
+        },
+        {
             "name": "Mediacorp Okto on International",
             "image": "https://static.12core.net/media/content/stream/effed613-a0e9-45e7-b64b-a03dbe3fc61b/114db2efe55d99de26e79e0bf0dabd1a",
             "url": "https://app.viloud.tv/hls/channel/d6d0f1619365a2113fd862229543cd31.m3u8"
@@ -158,6 +238,11 @@
             "name": "Channel Fight Masterclass",
             "image": "https://static.12core.net/media/content/stream/e491f173-3d29-45be-860f-a0d45b34e428/68a5bddcd020c0449a8922a239e54266",
             "url": "https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-RAD/266.m3u8"
+        },
+        {
+            "name": "AWE Plus",
+            "image": "https://static.12core.net/media/content/stream/ea3d0c5d-3f15-4ea9-8f71-06f6cd603568/dd22e6f654760d35360d50a85fd94a62.jpg",
+            "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=919&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB1-7&content_channel=AWE%20Plus&content_genre=Lifestyle&content_language=en&content_network=AWE%20Plus&content_prodqual=1&content_producer=AWE&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]"
         }
     ]
 }
