@@ -37,6 +37,8 @@ https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-
 https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/946c2426-1223-4ea7-8d20-faf9a34ec390/2a5111d4b3ed99a779416b8c7b95307d" group-title="TV", iNews
 https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/58a4c506-fe3c-47bc-9004-2d931eb89b3f/c8d1c08bf3483f336abff93c714b7a71" group-title="Entertainment", Hi Drama
+https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hidrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5df925d2-57ba-4183-82c9-c0a7b3c6375c/06007ef7c10ca8e6bbf4422859da17ca.jpg" group-title="Drama", Revry QueerTV 24/7
 https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/4fe8133b16cdf488e1baf642e34956d9" group-title="Entertainment", XITE 90S THROWBACK
