@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4019c31f-4a7d-46db-8b5e-5b2258c77d40/615c47184a08572c92da63045b388053" group-title="Comedy", Rad TV Presents: Enter the Wormhole
-https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-a95f73f4820d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b5cab9b9176b438217267e4608ee6ed8" group-title="Entertainment", XITE CHRISTIAN HITS
 https://amg01243-amg01243c25-littlestar-us-8831.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitechristianhits-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/fff2a7c1f63f6d631fd6f4255b316dc3" group-title="Entertainment", XITE COUNTRY TODAY
 https://amg01243-amg01243c4-littlestar-us-8722.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitecountrytoday-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5df925d2-57ba-4183-82c9-c0a7b3c6375c/06007ef7c10ca8e6bbf4422859da17ca.jpg" group-title="Drama", Revry QueerTV 24/7
 https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4019c31f-4a7d-46db-8b5e-5b2258c77d40/615c47184a08572c92da63045b388053" group-title="Comedy", Rad TV Presents: Enter the Wormhole
+https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-a95f73f4820d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/46cbd31e-9eae-48c4-bf91-dec4f144b793/2a9beaa069738bb18a35367f3b9f1935.jpg" group-title="Entertainment", AfrolandTV
 https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7a2b5ba4efe166b39b4127f5cdb79fe8" group-title="Entertainment", XITE 80S FLASHBACK
