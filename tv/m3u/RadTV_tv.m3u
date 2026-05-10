@@ -31,8 +31,6 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://amg01243-amg01243c9-littlestar-us-8825.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitejustchill-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png" group-title="Gaming", SKWAD
 https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/01a5923cbbbb4f9011be561c1ad013d9" group-title="Education", XITE REGGAE VIBES
-https://amg01243-amg01243c26-littlestar-us-8830.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitereggaevibes-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/58a4c506-fe3c-47bc-9004-2d931eb89b3f/c8d1c08bf3483f336abff93c714b7a71" group-title="Entertainment", Hi Drama
 https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hidrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5cbf37bf9b4cd3d402b51064dcf2d51f" group-title="Entertainment", XITE R&B FEELS
