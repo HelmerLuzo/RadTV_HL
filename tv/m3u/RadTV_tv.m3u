@@ -69,6 +69,8 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://www.youtube.com/watch?v=_Z7LM8TJ66Y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b747098c70bc0f7606e3fd9bff0a32ad" group-title="Entertainment", XITE GOSPEL
 https://amg01243-amg01243c35-littlestar-us-9163.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitegospel-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/7fa0b204-fbc8-4028-9e4d-68a93f725e0a/e377005cd26dee1b7c495bea7d8f5c50" group-title="Animation", Greenytoons
+https://rad.live/content/channel/greenytoons
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7b1650f528b6688c76c595b837126c47" group-title="Entertainment", XITE NUEVO LATINO
 https://amg01243-amg01243c12-littlestar-us-8814.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitenuevolatino-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/0f1bc982-1d05-48a0-a137-91bed5df519d/45289767c76d8d564eb8f6bdd1a267de" group-title="Entertainment", streamforce 360
