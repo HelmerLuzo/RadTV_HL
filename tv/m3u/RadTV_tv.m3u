@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9252eda7-08b3-4210-aca3-d496130dc1d1/837307785f7f2479fcb49ae1aee00eb7" group-title="Documentary", MyNeighborhood
+https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-69cdce60f2dd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b5cab9b9176b438217267e4608ee6ed8" group-title="Entertainment", XITE CHRISTIAN HITS
 https://amg01243-amg01243c25-littlestar-us-8831.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitechristianhits-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/fff2a7c1f63f6d631fd6f4255b316dc3" group-title="Entertainment", XITE COUNTRY TODAY
@@ -37,6 +39,8 @@ https://amg01243-amg01243c26-littlestar-us-8830.playouts.now.amagi.tv/playlist/a
 https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hidrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5cbf37bf9b4cd3d402b51064dcf2d51f" group-title="Entertainment", XITE R&B FEELS
 https://amg01243-amg01243c13-littlestar-us-8828.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiternbfeels-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/66e29dfd-fdd0-4867-83ee-6faafd5b5783/e651ba9ce698f6408c3b681fa6c460ac" group-title="Documentary", Hi Life
+https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hilife.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/3e7f2a8fc77cb64f514747f8bbaf8134" group-title="Education", XITE HIP-HOP EVOLUTION
 https://amg01243-amg01243c7-littlestar-us-8827.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitehiphopevolution-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7590388ae4e24bdeafae65e13a10d2db" group-title="Entertainment", XITE 60S 70S GROOVE
@@ -73,6 +77,8 @@ https://amg01243-amg01243c12-littlestar-us-8814.playouts.now.amagi.tv/playlist/a
 https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/f2580ef35b38bd2fcc628f4a997c717a" group-title="Entertainment", XITE ROCK X METAL
 https://amg01243-amg01243c21-littlestar-us-8822.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterockxmetal-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/aa5c7e27-962a-4021-a476-efecffcde88d/31fedf7ad6850a101fe54bafd08a6de7" group-title="Entertainment", Hi Vida
+https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hivida.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="Sports", NHRA TV
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7a72465bafeb3727ee15821eb3cbfd67" group-title="Music", XITE Hits
