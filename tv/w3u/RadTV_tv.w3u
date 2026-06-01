@@ -1,6 +1,6 @@
 {
     "name": "Rad TV by HL",
-    "author": "Actualizada 01/06/2026 12:13",
+    "author": "Actualizada 02/06/2026 00:13",
     "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
     "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
     "stations": [
@@ -8,6 +8,11 @@
             "name": "XITE CHRISTIAN HITS",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/b5cab9b9176b438217267e4608ee6ed8",
             "url": "https://amg01243-amg01243c25-littlestar-us-8831.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitechristianhits-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
+        },
+        {
+            "name": "MyNeighborhood National",
+            "image": "https://static.12core.net/media/content/stream/be8fa40f-f5da-41a7-9173-4df6af7bfc61/4020cb0fac781dd6b146fbc054018fb9",
+            "url": "https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-13033fcf8712/index.m3u8"
         },
         {
             "name": "XITE COUNTRY TODAY",
@@ -183,11 +188,6 @@
             "name": "XITE NUEVO LATINO",
             "image": "https://12core-tus-ingestion.s3.amazonaws.com/7b1650f528b6688c76c595b837126c47",
             "url": "https://amg01243-amg01243c12-littlestar-us-8814.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitenuevolatino-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}"
-        },
-        {
-            "name": "MyNeighborhood",
-            "image": "https://static.12core.net/media/content/stream/aa00d0db-a0f0-4296-a8f8-9887fda3e3e2/77d8225a5b2faafe47a1e7df5d5b9eb5",
-            "url": "https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-9700e95a9581/index.m3u8"
         },
         {
             "name": "streamforce 360",
